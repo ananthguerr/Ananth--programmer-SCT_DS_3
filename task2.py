@@ -1,0 +1,482 @@
+# ============================================================
+# TASK 02 - EMPLOYEE PERFORMANCE & SALARY ANALYSIS
+# Data Cleaning and Exploratory Data Analysis (EDA)
+# ============================================================
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# ------------------------------------------------------------
+# 1. CREATE SAMPLE DATASET
+# ------------------------------------------------------------
+
+data = {
+    "Employee_ID": range(1001, 1041),
+
+    "Age": [
+        23, 26, 29, 32, 35, 28, 31, 24, 38, 41,
+        27, 30, 34, 36, 25, 29, 33, 39, 42, 26,
+        28, 31, 37, 43, 24, 35, 30, 32, 40, 27,
+        29, 34, 36, 25, 38, 41, 28, 33, 39, 26
+    ],
+
+    "Gender": [
+        "Male", "Female", "Male", "Female", "Male",
+        "Female", "Male", "Female", "Male", "Female",
+        "Male", "Female", "Male", "Female", "Male",
+        "Female", "Male", "Female", "Male", "Female",
+        "Male", "Female", "Male", "Female", "Male",
+        "Female", "Male", "Female", "Male", "Female",
+        "Male", "Female", "Male", "Female", "Male",
+        "Female", "Male", "Female", "Male", "Female"
+    ],
+
+    "Department": [
+        "IT", "HR", "Finance", "IT", "Marketing",
+        "Sales", "IT", "HR", "Finance", "Marketing",
+        "Sales", "IT", "Finance", "HR", "IT",
+        "Marketing", "Sales", "Finance", "IT", "HR",
+        "Marketing", "Sales", "IT", "Finance", "HR",
+        "Marketing", "IT", "Sales", "Finance", "HR",
+        "IT", "Marketing", "Finance", "Sales", "HR",
+        "IT", "Marketing", "Sales", "Finance", "IT"
+    ],
+
+    "Experience": [
+        1, 2, 4, 6, 8, 3, 5, 2, 10, 12,
+        3, 5, 7, 9, 2, 4, 6, 11, 13, 3,
+        5, 7, 9, 14, 1, 8, 4, 6, 12, 2,
+        5, 7, 10, 3, 9, 13, 4, 6, 11, 2
+    ],
+
+    "Salary": [
+        32000, 36000, 45000, 58000, 72000,
+        41000, 55000, 35000, 85000, 92000,
+        43000, 62000, 68000, 76000, 34000,
+        48000, 59000, 88000, 98000, 39000,
+        52000, 67000, 74000, 105000, 31000,
+        71000, 47000, 61000, 90000, 37000,
+        56000, 70000, 82000, 42000, 78000,
+        95000, 44000, 65000, 86000, 40000
+    ],
+
+    "Performance_Score": [
+        72, 78, 81, 88, 92,
+        76, 85, 70, 94, 91,
+        79, 87, 83, 89, 74,
+        80, 86, 95, 93, 77,
+        82, 88, 90, 96, 69,
+        91, 84, 87, 92, 73,
+        85, 89, 94, 78, 90,
+        96, 81, 86, 93, 75
+    ],
+
+    "Working_Hours": [
+        40, 42, 44, 45, 46,
+        41, 43, 39, 47, 45,
+        42, 44, 46, 43, 40,
+        41, 45, 44, 48, 39,
+        42, 46, 45, 47, 40,
+        44, 43, 45, 46, 41,
+        42, 44, 47, 40, 46,
+        48, 43, 45, 47, 41
+    ],
+
+    "Projects_Completed": [
+        3, 4, 5, 7, 9,
+        4, 6, 3, 10, 8,
+        5, 7, 6, 8, 3,
+        5, 7, 9, 11, 4,
+        6, 8, 9, 12, 2,
+        10, 5, 7, 10, 3,
+        6, 8, 11, 4, 9,
+        12, 6, 8, 10, 4
+    ]
+}
+
+df = pd.DataFrame(data)
+
+# ------------------------------------------------------------
+# 2. DISPLAY DATASET
+# ------------------------------------------------------------
+
+print("=" * 65)
+print("EMPLOYEE PERFORMANCE & SALARY DATASET")
+print("=" * 65)
+
+print(df.head(10))
+
+print("\nDataset Shape:")
+print(df.shape)
+
+# ------------------------------------------------------------
+# 3. DATA INFORMATION
+# ------------------------------------------------------------
+
+print("\n" + "=" * 65)
+print("DATASET INFORMATION")
+print("=" * 65)
+
+df.info()
+
+# ------------------------------------------------------------
+# 4. CHECK MISSING VALUES
+# ------------------------------------------------------------
+
+print("\n" + "=" * 65)
+print("MISSING VALUES")
+print("=" * 65)
+
+print(df.isnull().sum())
+
+# ------------------------------------------------------------
+# 5. CHECK DUPLICATES
+# ------------------------------------------------------------
+
+print("\n" + "=" * 65)
+print("DUPLICATE RECORDS")
+print("=" * 65)
+
+print("Duplicate records:", df.duplicated().sum())
+
+df = df.drop_duplicates()
+
+# ------------------------------------------------------------
+# 6. CHECK UNIQUE VALUES
+# ------------------------------------------------------------
+
+print("\n" + "=" * 65)
+print("UNIQUE VALUES")
+print("=" * 65)
+
+print("Departments:", df["Department"].unique())
+print("Gender:", df["Gender"].unique())
+
+# ------------------------------------------------------------
+# 7. STATISTICAL SUMMARY
+# ------------------------------------------------------------
+
+print("\n" + "=" * 65)
+print("STATISTICAL SUMMARY")
+print("=" * 65)
+
+print(df.describe().round(2))
+
+# ------------------------------------------------------------
+# 8. BASIC BUSINESS ANALYSIS
+# ------------------------------------------------------------
+
+total_employees = len(df)
+average_salary = df["Salary"].mean()
+highest_salary = df["Salary"].max()
+average_performance = df["Performance_Score"].mean()
+
+print("\n" + "=" * 65)
+print("EMPLOYEE SUMMARY")
+print("=" * 65)
+
+print(f"Total Employees       : {total_employees}")
+print(f"Average Salary        : ₹{average_salary:,.2f}")
+print(f"Highest Salary        : ₹{highest_salary:,.2f}")
+print(f"Average Performance   : {average_performance:.2f}")
+
+# ============================================================
+# VISUALIZATION 1
+# AVERAGE SALARY BY DEPARTMENT
+# ============================================================
+
+department_salary = (
+    df.groupby("Department")["Salary"]
+    .mean()
+    .sort_values(ascending=False)
+)
+
+plt.figure(figsize=(10, 6))
+
+bars = plt.bar(
+    department_salary.index,
+    department_salary.values,
+    edgecolor="black"
+)
+
+for bar in bars:
+    value = bar.get_height()
+    plt.text(
+        bar.get_x() + bar.get_width() / 2,
+        value + 1000,
+        f"₹{value/1000:.1f}K",
+        ha="center",
+        fontweight="bold"
+    )
+
+plt.title(
+    "Average Salary by Department",
+    fontsize=18,
+    fontweight="bold"
+)
+
+plt.xlabel("Department", fontsize=12)
+plt.ylabel("Average Salary (₹)", fontsize=12)
+
+plt.grid(axis="y", linestyle="--", alpha=0.3)
+
+plt.tight_layout()
+plt.show()
+
+# ============================================================
+# VISUALIZATION 2
+# EMPLOYEE COUNT BY DEPARTMENT
+# ============================================================
+
+department_count = df["Department"].value_counts()
+
+plt.figure(figsize=(10, 6))
+
+bars = plt.bar(
+    department_count.index,
+    department_count.values,
+    edgecolor="black"
+)
+
+for bar in bars:
+    plt.text(
+        bar.get_x() + bar.get_width() / 2,
+        bar.get_height() + 0.1,
+        int(bar.get_height()),
+        ha="center",
+        fontweight="bold"
+    )
+
+plt.title(
+    "Employee Distribution by Department",
+    fontsize=18,
+    fontweight="bold"
+)
+
+plt.xlabel("Department", fontsize=12)
+plt.ylabel("Number of Employees", fontsize=12)
+
+plt.grid(axis="y", linestyle="--", alpha=0.3)
+
+plt.tight_layout()
+plt.show()
+
+# ============================================================
+# VISUALIZATION 3
+# EXPERIENCE DISTRIBUTION
+# ============================================================
+
+plt.figure(figsize=(10, 6))
+
+plt.hist(
+    df["Experience"],
+    bins=8,
+    edgecolor="black"
+)
+
+plt.title(
+    "Employee Experience Distribution",
+    fontsize=18,
+    fontweight="bold"
+)
+
+plt.xlabel("Years of Experience", fontsize=12)
+plt.ylabel("Number of Employees", fontsize=12)
+
+plt.grid(axis="y", linestyle="--", alpha=0.3)
+
+plt.tight_layout()
+plt.show()
+
+# ============================================================
+# VISUALIZATION 4
+# EXPERIENCE VS SALARY
+# ============================================================
+
+plt.figure(figsize=(10, 6))
+
+sns.scatterplot(
+    data=df,
+    x="Experience",
+    y="Salary",
+    hue="Department",
+    s=100
+)
+
+plt.title(
+    "Relationship Between Experience and Salary",
+    fontsize=18,
+    fontweight="bold"
+)
+
+plt.xlabel("Years of Experience", fontsize=12)
+plt.ylabel("Salary (₹)", fontsize=12)
+
+plt.grid(True, linestyle="--", alpha=0.3)
+
+plt.tight_layout()
+plt.show()
+
+# ============================================================
+# VISUALIZATION 5
+# PERFORMANCE BY DEPARTMENT
+# ============================================================
+
+plt.figure(figsize=(10, 6))
+
+sns.boxplot(
+    data=df,
+    x="Department",
+    y="Performance_Score"
+)
+
+plt.title(
+    "Employee Performance by Department",
+    fontsize=18,
+    fontweight="bold"
+)
+
+plt.xlabel("Department", fontsize=12)
+plt.ylabel("Performance Score", fontsize=12)
+
+plt.tight_layout()
+plt.show()
+
+# ============================================================
+# VISUALIZATION 6
+# CORRELATION HEATMAP
+# ============================================================
+
+numeric_columns = [
+    "Age",
+    "Experience",
+    "Salary",
+    "Performance_Score",
+    "Working_Hours",
+    "Projects_Completed"
+]
+
+correlation = df[numeric_columns].corr()
+
+plt.figure(figsize=(10, 7))
+
+sns.heatmap(
+    correlation,
+    annot=True,
+    cmap="coolwarm",
+    fmt=".2f",
+    linewidths=0.5
+)
+
+plt.title(
+    "Correlation Between Employee Variables",
+    fontsize=18,
+    fontweight="bold"
+)
+
+plt.tight_layout()
+plt.show()
+
+# ============================================================
+# 9. DEPARTMENT-WISE ANALYSIS
+# ============================================================
+
+print("\n" + "=" * 65)
+print("DEPARTMENT-WISE ANALYSIS")
+print("=" * 65)
+
+department_analysis = df.groupby("Department").agg(
+    Employees=("Employee_ID", "count"),
+    Average_Salary=("Salary", "mean"),
+    Average_Performance=("Performance_Score", "mean"),
+    Average_Experience=("Experience", "mean"),
+    Average_Projects=("Projects_Completed", "mean")
+)
+
+print(department_analysis.round(2))
+
+# ============================================================
+# 10. GENDER-WISE ANALYSIS
+# ============================================================
+
+print("\n" + "=" * 65)
+print("GENDER-WISE ANALYSIS")
+print("=" * 65)
+
+gender_analysis = df.groupby("Gender").agg(
+    Employees=("Employee_ID", "count"),
+    Average_Salary=("Salary", "mean"),
+    Average_Performance=("Performance_Score", "mean")
+)
+
+print(gender_analysis.round(2))
+
+# ============================================================
+# 11. TOP 5 EMPLOYEES
+# ============================================================
+
+print("\n" + "=" * 65)
+print("TOP 5 EMPLOYEES BY PERFORMANCE")
+print("=" * 65)
+
+top_employees = df.sort_values(
+    "Performance_Score",
+    ascending=False
+).head(5)
+
+print(
+    top_employees[
+        [
+            "Employee_ID",
+            "Department",
+            "Experience",
+            "Salary",
+            "Performance_Score"
+        ]
+    ]
+)
+
+# ============================================================
+# 12. KEY FINDINGS
+# ============================================================
+
+best_department = department_analysis[
+    "Average_Performance"
+].idxmax()
+
+highest_salary_department = department_analysis[
+    "Average_Salary"
+].idxmax()
+
+print("\n" + "=" * 65)
+print("KEY FINDINGS")
+print("=" * 65)
+
+print(
+    f"1. Department with highest average performance: "
+    f"{best_department}"
+)
+
+print(
+    f"2. Department with highest average salary: "
+    f"{highest_salary_department}"
+)
+
+print(
+    f"3. Overall average salary: "
+    f"₹{average_salary:,.2f}"
+)
+
+print(
+    f"4. Overall average performance score: "
+    f"{average_performance:.2f}"
+)
+
+print(
+    f"5. Total employees analyzed: "
+    f"{total_employees}"
+)
+
+print("\nEDA COMPLETED SUCCESSFULLY.")
