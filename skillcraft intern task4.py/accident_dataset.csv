@@ -1,0 +1,1201 @@
+Accident_ID,Date,Time,Weather,Road_Condition,Location,Latitude,Longitude,Severity,Vehicles_Involved,Cause
+A0001,2024-09-07,02:17,Clear,Wet,Devipattinam Road,9.478745,78.867793,Minor,4,Poor Road Condition
+A0002,2024-08-11,02:05,Clear,Wet,Bus Stand Junction,9.368472,78.836285,Fatal,3,Drunk Driving
+A0003,2024-10-11,08:37,Rainy,Potholes,Bus Stand Junction,9.367149,78.833649,Minor,2,Weather
+A0004,2024-04-09,06:24,Clear,Dry,Madurai Road Junction,9.367369,78.811151,Moderate,1,Speeding
+A0005,2024-03-21,22:24,Cloudy,Potholes,Devipattinam Road,9.477296,78.868814,Moderate,4,Poor Road Condition
+A0006,2024-10-23,03:14,Windy,Potholes,Devipattinam Road,9.477305,78.867301,Moderate,2,Overtaking
+A0007,2024-08-02,07:22,Cloudy,Wet,Madurai Road Junction,9.365363,78.80713,Moderate,1,Weather
+A0008,2025-04-18,18:10,Clear,Under Construction,East Coast Road,9.297413,78.899157,Moderate,2,Poor Road Condition
+A0009,2024-11-19,08:02,Clear,Dry,Ramanathapuram Junction,9.362381,78.839971,Moderate,2,Vehicle Failure
+A0010,2025-10-20,17:25,Clear,Dry,Kilakarai Main Road,9.229638,78.782882,Moderate,2,Speeding
+A0011,2025-02-12,13:37,Clear,Under Construction,Industrial Area Road,9.352198,78.824661,Severe,2,Speeding
+A0012,2025-11-27,07:10,Clear,Dry,Devipattinam Road,9.478101,78.865863,Moderate,5,Distracted Driving
+A0013,2025-11-27,20:00,Cloudy,Wet,East Coast Road,9.299183,78.900166,Severe,2,Drunk Driving
+A0014,2025-04-09,10:10,Clear,Wet,Devipattinam Road,9.476274,78.868564,Severe,5,Weather
+A0015,2025-10-02,21:55,Clear,Wet,East Coast Road,9.299099,78.899562,Severe,1,Poor Road Condition
+A0016,2025-06-27,22:59,Foggy,Dry,East Coast Road,9.299097,78.902778,Minor,1,Weather
+A0017,2025-08-03,09:15,Windy,Dry,Rameswaram Road,9.28798,79.310413,Moderate,1,Weather
+A0018,2025-07-16,07:30,Clear,Dry,Paramakudi Highway,9.547234,78.588169,Severe,5,Poor Road Condition
+A0019,2025-11-18,18:25,Cloudy,Dry,Kilakarai Main Road,9.231313,78.78206,Minor,1,Distracted Driving
+A0020,2024-08-23,01:35,Cloudy,Dry,Madurai Road Junction,9.363008,78.810295,Minor,1,Weather
+A0021,2025-06-10,20:04,Clear,Wet,Ramanathapuram Junction,9.365008,78.839757,Fatal,1,Speeding
+A0022,2025-04-29,16:15,Rainy,Dry,Industrial Area Road,9.349827,78.824548,Moderate,2,Poor Road Condition
+A0023,2024-04-10,18:41,Clear,Wet,Ramanathapuram Junction,9.361682,78.83842,Minor,1,Signal Violation
+A0024,2024-07-06,14:27,Clear,Dry,East Coast Road,9.299309,78.901586,Severe,2,Overtaking
+A0025,2025-07-07,06:41,Rainy,Under Construction,East Coast Road,9.300515,78.897355,Moderate,1,Vehicle Failure
+A0026,2024-03-01,20:57,Clear,Dry,Kilakarai Main Road,9.231486,78.784422,Moderate,4,Distracted Driving
+A0027,2025-07-23,13:46,Cloudy,Dry,Rameswaram Road,9.286985,79.312918,Minor,2,Speeding
+A0028,2024-02-28,04:20,Clear,Dry,East Coast Road,9.301546,78.901397,Minor,2,Vehicle Failure
+A0029,2024-03-11,05:11,Cloudy,Wet,East Coast Road,9.298741,78.899536,Fatal,1,Speeding
+A0030,2025-09-26,16:02,Clear,Wet,Kilakarai Main Road,9.231497,78.786463,Moderate,2,Drunk Driving
+A0031,2024-05-14,09:25,Cloudy,Dry,Madurai Road Junction,9.364281,78.809722,Minor,3,Distracted Driving
+A0032,2024-04-12,17:36,Clear,Dry,Market Road,9.36414,78.834406,Severe,4,Speeding
+A0033,2025-03-24,12:10,Rainy,Wet,Kilakarai Main Road,9.232219,78.787034,Minor,3,Overtaking
+A0034,2024-04-16,10:42,Windy,Dry,East Coast Road,9.299892,78.901505,Moderate,1,Speeding
+A0035,2024-12-17,09:13,Clear,Wet,Rameswaram Road,9.288542,79.311032,Severe,2,Speeding
+A0036,2024-10-10,06:27,Clear,Dry,Ramanathapuram Junction,9.364442,78.841807,Moderate,5,Speeding
+A0037,2025-07-28,16:27,Clear,Dry,Market Road,9.365746,78.838547,Moderate,4,Vehicle Failure
+A0038,2025-03-16,16:09,Clear,Dry,Madurai Road Junction,9.36107,78.811233,Severe,3,Vehicle Failure
+A0039,2025-11-13,08:15,Clear,Muddy,Madurai Road Junction,9.365131,78.809551,Moderate,2,Vehicle Failure
+A0040,2024-06-15,21:15,Windy,Potholes,Paramakudi Highway,9.546138,78.587019,Severe,1,Overtaking
+A0041,2025-11-16,19:26,Rainy,Wet,Madurai Road Junction,9.36467,78.810536,Severe,1,Vehicle Failure
+A0042,2025-04-16,08:52,Clear,Potholes,Market Road,9.368017,78.835423,Moderate,2,Overtaking
+A0043,2024-03-12,11:55,Windy,Dry,Bus Stand Junction,9.366287,78.833247,Fatal,2,Weather
+A0044,2024-04-28,11:01,Foggy,Dry,East Coast Road,9.301373,78.900493,Minor,5,Weather
+A0045,2024-11-17,13:46,Clear,Under Construction,Industrial Area Road,9.349205,78.82577,Moderate,4,Speeding
+A0046,2025-06-16,18:00,Windy,Dry,Ramanathapuram Junction,9.364046,78.840953,Moderate,3,Signal Violation
+A0047,2024-12-04,13:42,Cloudy,Wet,Madurai Road Junction,9.363947,78.809509,Severe,4,Speeding
+A0048,2024-10-29,11:44,Cloudy,Dry,Bus Stand Junction,9.366912,78.831805,Moderate,2,Poor Road Condition
+A0049,2025-02-19,17:19,Clear,Dry,Paramakudi Highway,9.546444,78.590392,Moderate,2,Speeding
+A0050,2025-11-22,14:28,Clear,Dry,Madurai Road Junction,9.365008,78.809648,Minor,3,Vehicle Failure
+A0051,2025-10-10,09:42,Cloudy,Dry,Devipattinam Road,9.475877,78.867369,Minor,2,Overtaking
+A0052,2024-09-07,07:02,Windy,Wet,Kilakarai Main Road,9.230486,78.783797,Severe,2,Signal Violation
+A0053,2025-01-28,08:44,Clear,Dry,Industrial Area Road,9.349758,78.825606,Moderate,1,Poor Road Condition
+A0054,2024-06-29,19:14,Rainy,Wet,Devipattinam Road,9.480829,78.868262,Minor,4,Weather
+A0055,2025-06-27,19:42,Windy,Dry,Paramakudi Highway,9.546386,78.589888,Moderate,4,Overtaking
+A0056,2025-07-15,13:58,Clear,Dry,East Coast Road,9.297122,78.89996,Moderate,2,Vehicle Failure
+A0057,2025-05-11,19:33,Cloudy,Dry,Rameswaram Road,9.28809,79.315695,Moderate,2,Speeding
+A0058,2024-05-21,21:05,Clear,Dry,Madurai Road Junction,9.364711,78.810452,Moderate,2,Speeding
+A0059,2024-03-04,16:26,Clear,Dry,Madurai Road Junction,9.364948,78.808247,Moderate,2,Vehicle Failure
+A0060,2024-12-26,12:00,Clear,Dry,Industrial Area Road,9.351714,78.826128,Moderate,3,Vehicle Failure
+A0061,2024-08-13,19:57,Clear,Dry,East Coast Road,9.301187,78.898636,Moderate,2,Distracted Driving
+A0062,2025-04-23,18:53,Foggy,Under Construction,Bus Stand Junction,9.369604,78.831897,Moderate,4,Poor Road Condition
+A0063,2024-05-18,05:27,Rainy,Wet,Ramanathapuram Junction,9.36478,78.842786,Severe,2,Drunk Driving
+A0064,2025-03-07,09:53,Clear,Dry,Bus Stand Junction,9.366014,78.833151,Fatal,2,Speeding
+A0065,2025-10-29,08:04,Clear,Dry,Madurai Road Junction,9.365149,78.809245,Severe,3,Speeding
+A0066,2024-04-27,07:42,Cloudy,Dry,Kilakarai Main Road,9.228674,78.785103,Minor,3,Weather
+A0067,2024-04-27,22:45,Rainy,Wet,Industrial Area Road,9.348407,78.82571,Moderate,4,Weather
+A0068,2024-07-22,12:45,Clear,Wet,Bus Stand Junction,9.366121,78.836325,Moderate,1,Poor Road Condition
+A0069,2025-08-02,19:50,Rainy,Wet,Industrial Area Road,9.348825,78.824517,Minor,2,Poor Road Condition
+A0070,2025-03-19,19:06,Windy,Wet,Bus Stand Junction,9.36872,78.832154,Minor,3,Vehicle Failure
+A0071,2025-09-22,22:17,Rainy,Wet,East Coast Road,9.300341,78.901961,Moderate,3,Poor Road Condition
+A0072,2024-10-12,20:05,Foggy,Dry,Kilakarai Main Road,9.228589,78.785277,Minor,2,Weather
+A0073,2024-07-05,15:20,Clear,Dry,Ramanathapuram Junction,9.36429,78.840673,Moderate,2,Speeding
+A0074,2024-07-14,16:33,Clear,Wet,Rameswaram Road,9.286145,79.310019,Moderate,3,Distracted Driving
+A0075,2024-04-05,14:01,Clear,Dry,Market Road,9.366583,78.836645,Moderate,3,Speeding
+A0076,2025-07-17,16:27,Clear,Wet,East Coast Road,9.300376,78.90052,Minor,2,Speeding
+A0077,2025-07-02,10:47,Windy,Wet,Kilakarai Main Road,9.22998,78.785348,Moderate,3,Speeding
+A0078,2025-09-03,23:33,Clear,Dry,Industrial Area Road,9.35044,78.823928,Moderate,2,Speeding
+A0079,2024-10-07,18:08,Clear,Dry,Ramanathapuram Junction,9.366699,78.840211,Severe,4,Speeding
+A0080,2025-08-10,06:00,Clear,Dry,Market Road,9.364013,78.837185,Minor,5,Distracted Driving
+A0081,2025-02-14,06:04,Clear,Dry,Market Road,9.364338,78.837381,Moderate,1,Weather
+A0082,2024-05-01,05:15,Cloudy,Dry,Rameswaram Road,9.289738,79.310769,Severe,2,Drunk Driving
+A0083,2024-10-31,14:28,Rainy,Wet,Bus Stand Junction,9.368945,78.834619,Moderate,2,Weather
+A0084,2025-11-07,17:16,Clear,Dry,Kilakarai Main Road,9.232233,78.787845,Moderate,1,Drunk Driving
+A0085,2024-08-25,14:02,Clear,Dry,Industrial Area Road,9.349632,78.823869,Minor,1,Signal Violation
+A0086,2025-08-26,19:40,Cloudy,Under Construction,Rameswaram Road,9.286666,79.310776,Moderate,2,Poor Road Condition
+A0087,2024-03-02,20:04,Clear,Dry,Rameswaram Road,9.287884,79.312512,Minor,2,Signal Violation
+A0088,2025-12-17,14:19,Clear,Dry,Devipattinam Road,9.478415,78.869241,Moderate,2,Drunk Driving
+A0089,2024-09-13,18:38,Clear,Dry,Bus Stand Junction,9.36752,78.83618,Moderate,4,Poor Road Condition
+A0090,2024-10-02,23:43,Cloudy,Muddy,Ramanathapuram Junction,9.363503,78.84358,Severe,2,Speeding
+A0091,2025-03-22,08:37,Cloudy,Dry,Rameswaram Road,9.288939,79.310714,Moderate,2,Speeding
+A0092,2025-02-25,20:21,Cloudy,Dry,Devipattinam Road,9.476394,78.868724,Moderate,3,Overtaking
+A0093,2024-11-27,06:16,Clear,Muddy,Market Road,9.365465,78.837271,Minor,3,Vehicle Failure
+A0094,2024-07-11,14:03,Clear,Wet,East Coast Road,9.30071,78.899891,Minor,2,Distracted Driving
+A0095,2024-10-21,16:59,Clear,Wet,Rameswaram Road,9.28673,79.309728,Fatal,5,Speeding
+A0096,2025-07-18,18:19,Clear,Dry,Kilakarai Main Road,9.23033,78.786285,Minor,3,Speeding
+A0097,2025-05-25,17:09,Windy,Dry,Devipattinam Road,9.478321,78.866131,Moderate,2,Signal Violation
+A0098,2024-05-28,09:35,Clear,Under Construction,Market Road,9.36606,78.836778,Severe,4,Poor Road Condition
+A0099,2025-02-28,19:54,Clear,Muddy,Rameswaram Road,9.286674,79.312231,Severe,1,Speeding
+A0100,2025-05-16,16:42,Rainy,Wet,Industrial Area Road,9.350087,78.823286,Moderate,3,Drunk Driving
+A0101,2024-09-01,20:44,Cloudy,Dry,Madurai Road Junction,9.365537,78.810841,Moderate,1,Signal Violation
+A0102,2025-10-29,12:42,Windy,Dry,Bus Stand Junction,9.369125,78.835581,Moderate,2,Speeding
+A0103,2024-04-12,20:28,Clear,Dry,Devipattinam Road,9.475933,78.866593,Moderate,2,Weather
+A0104,2024-09-28,05:50,Clear,Wet,Paramakudi Highway,9.546773,78.590771,Severe,3,Poor Road Condition
+A0105,2025-10-03,12:20,Cloudy,Muddy,East Coast Road,9.300773,78.905779,Minor,1,Vehicle Failure
+A0106,2024-04-02,23:47,Clear,Dry,Rameswaram Road,9.288856,79.313703,Moderate,4,Poor Road Condition
+A0107,2024-11-28,21:02,Rainy,Wet,Rameswaram Road,9.289431,79.312977,Fatal,2,Speeding
+A0108,2025-09-16,07:05,Foggy,Wet,Paramakudi Highway,9.545527,78.591138,Minor,4,Distracted Driving
+A0109,2024-09-18,17:29,Cloudy,Potholes,Market Road,9.364641,78.835845,Moderate,2,Poor Road Condition
+A0110,2025-08-24,14:22,Clear,Under Construction,Devipattinam Road,9.477272,78.868123,Minor,2,Weather
+A0111,2024-08-30,20:06,Clear,Dry,Bus Stand Junction,9.370972,78.831199,Minor,3,Speeding
+A0112,2025-12-03,09:36,Rainy,Under Construction,Bus Stand Junction,9.368529,78.831581,Severe,3,Signal Violation
+A0113,2024-08-12,17:22,Cloudy,Wet,Kilakarai Main Road,9.230292,78.786633,Moderate,3,Poor Road Condition
+A0114,2025-10-04,17:57,Cloudy,Dry,Paramakudi Highway,9.546096,78.588383,Moderate,2,Distracted Driving
+A0115,2025-03-01,21:20,Clear,Dry,Devipattinam Road,9.476927,78.869019,Severe,5,Drunk Driving
+A0116,2025-05-08,20:16,Windy,Dry,Rameswaram Road,9.286904,79.312325,Moderate,3,Overtaking
+A0117,2025-11-23,07:14,Cloudy,Under Construction,Devipattinam Road,9.478068,78.867023,Minor,3,Overtaking
+A0118,2024-05-06,01:34,Clear,Wet,Bus Stand Junction,9.370716,78.834951,Severe,2,Poor Road Condition
+A0119,2025-04-27,06:14,Clear,Potholes,Madurai Road Junction,9.361962,78.81028,Moderate,4,Poor Road Condition
+A0120,2025-12-18,17:29,Clear,Dry,Devipattinam Road,9.477007,78.869279,Moderate,4,Speeding
+A0121,2025-07-04,06:15,Clear,Dry,Market Road,9.364611,78.836028,Severe,3,Poor Road Condition
+A0122,2024-06-07,16:46,Foggy,Wet,Bus Stand Junction,9.368257,78.835299,Severe,2,Vehicle Failure
+A0123,2024-08-10,02:23,Clear,Under Construction,Rameswaram Road,9.2862,79.311498,Moderate,1,Vehicle Failure
+A0124,2025-01-02,21:41,Clear,Dry,East Coast Road,9.299288,78.89902,Severe,4,Overtaking
+A0125,2025-10-16,18:41,Cloudy,Dry,Devipattinam Road,9.480648,78.868607,Minor,2,Signal Violation
+A0126,2025-07-21,08:53,Clear,Dry,Industrial Area Road,9.348109,78.826377,Minor,2,Vehicle Failure
+A0127,2024-05-28,00:54,Windy,Dry,Industrial Area Road,9.353183,78.826549,Severe,1,Vehicle Failure
+A0128,2024-08-31,01:50,Cloudy,Dry,Paramakudi Highway,9.543721,78.589274,Moderate,1,Speeding
+A0129,2025-04-04,18:30,Rainy,Dry,Devipattinam Road,9.4799,78.866938,Minor,4,Weather
+A0130,2024-02-01,10:41,Clear,Dry,East Coast Road,9.300666,78.901162,Moderate,3,Distracted Driving
+A0131,2024-11-25,05:05,Cloudy,Dry,Market Road,9.36441,78.836111,Moderate,3,Speeding
+A0132,2025-06-27,12:38,Clear,Dry,Madurai Road Junction,9.360138,78.808463,Minor,3,Distracted Driving
+A0133,2025-03-16,18:13,Clear,Dry,East Coast Road,9.299621,78.898128,Minor,2,Distracted Driving
+A0134,2025-11-12,10:20,Clear,Under Construction,Devipattinam Road,9.480449,78.865855,Minor,2,Weather
+A0135,2025-01-16,06:06,Rainy,Wet,Devipattinam Road,9.47734,78.868196,Minor,2,Weather
+A0136,2025-03-09,20:48,Rainy,Under Construction,Madurai Road Junction,9.367162,78.807846,Moderate,2,Poor Road Condition
+A0137,2024-08-17,07:30,Rainy,Wet,Kilakarai Main Road,9.232745,78.785015,Moderate,2,Speeding
+A0138,2025-09-28,20:49,Cloudy,Wet,Bus Stand Junction,9.366028,78.834693,Fatal,4,Speeding
+A0139,2025-12-20,02:17,Rainy,Wet,Rameswaram Road,9.288299,79.3111,Fatal,1,Speeding
+A0140,2024-02-01,07:40,Clear,Dry,Devipattinam Road,9.478105,78.867422,Minor,2,Distracted Driving
+A0141,2025-08-04,18:49,Cloudy,Potholes,Rameswaram Road,9.28817,79.312993,Minor,3,Distracted Driving
+A0142,2025-03-10,09:42,Clear,Dry,Devipattinam Road,9.480379,78.866143,Minor,3,Speeding
+A0143,2025-11-25,06:43,Cloudy,Dry,Bus Stand Junction,9.3707,78.831072,Fatal,2,Distracted Driving
+A0144,2024-08-04,00:19,Rainy,Wet,Ramanathapuram Junction,9.363672,78.840382,Severe,2,Speeding
+A0145,2024-08-23,12:45,Clear,Potholes,Paramakudi Highway,9.546421,78.589066,Severe,1,Vehicle Failure
+A0146,2024-03-20,13:29,Rainy,Wet,Ramanathapuram Junction,9.363588,78.83876,Minor,2,Signal Violation
+A0147,2025-09-24,22:10,Clear,Wet,Ramanathapuram Junction,9.363016,78.840774,Minor,2,Distracted Driving
+A0148,2024-03-21,17:33,Clear,Dry,Bus Stand Junction,9.368036,78.832961,Minor,2,Distracted Driving
+A0149,2025-06-06,17:33,Clear,Muddy,East Coast Road,9.301349,78.900461,Severe,4,Distracted Driving
+A0150,2024-09-19,08:09,Clear,Wet,Paramakudi Highway,9.547219,78.590944,Minor,3,Signal Violation
+A0151,2025-08-16,14:36,Clear,Under Construction,Market Road,9.364557,78.83536,Moderate,3,Poor Road Condition
+A0152,2025-04-25,07:04,Clear,Dry,Madurai Road Junction,9.366121,78.810916,Moderate,1,Speeding
+A0153,2024-02-28,14:02,Clear,Dry,Rameswaram Road,9.287969,79.312176,Minor,5,Poor Road Condition
+A0154,2025-08-17,15:29,Cloudy,Muddy,Industrial Area Road,9.351916,78.824113,Moderate,2,Vehicle Failure
+A0155,2025-05-28,10:30,Clear,Dry,Kilakarai Main Road,9.231821,78.784697,Moderate,4,Speeding
+A0156,2024-02-10,15:11,Clear,Dry,Devipattinam Road,9.477673,78.869648,Minor,2,Distracted Driving
+A0157,2025-02-22,21:24,Rainy,Dry,Madurai Road Junction,9.366238,78.81122,Minor,2,Weather
+A0158,2024-09-15,18:18,Cloudy,Wet,East Coast Road,9.301958,78.900032,Moderate,4,Vehicle Failure
+A0159,2024-12-24,18:58,Clear,Wet,Industrial Area Road,9.351023,78.824535,Moderate,1,Poor Road Condition
+A0160,2025-10-20,10:24,Rainy,Wet,Devipattinam Road,9.478486,78.867805,Moderate,3,Vehicle Failure
+A0161,2025-03-09,06:42,Clear,Dry,East Coast Road,9.300145,78.900893,Minor,4,Distracted Driving
+A0162,2024-06-07,08:08,Clear,Potholes,Market Road,9.364573,78.839339,Severe,3,Speeding
+A0163,2025-09-24,03:21,Clear,Dry,East Coast Road,9.298491,78.898179,Severe,3,Speeding
+A0164,2025-02-24,18:02,Clear,Wet,Paramakudi Highway,9.547737,78.591187,Moderate,2,Overtaking
+A0165,2024-11-12,08:15,Windy,Muddy,Market Road,9.366736,78.837143,Moderate,2,Overtaking
+A0166,2024-10-15,23:29,Rainy,Wet,Industrial Area Road,9.349982,78.823654,Fatal,2,Speeding
+A0167,2025-01-15,04:30,Cloudy,Dry,Rameswaram Road,9.288114,79.310984,Minor,3,Signal Violation
+A0168,2025-06-09,09:57,Clear,Dry,Paramakudi Highway,9.547463,78.589779,Moderate,2,Overtaking
+A0169,2024-02-24,21:26,Clear,Dry,Madurai Road Junction,9.363762,78.809518,Minor,1,Distracted Driving
+A0170,2025-10-27,21:53,Clear,Dry,Madurai Road Junction,9.365619,78.809154,Severe,4,Speeding
+A0171,2025-04-04,19:30,Cloudy,Potholes,Paramakudi Highway,9.544767,78.590366,Minor,2,Speeding
+A0172,2024-10-22,16:07,Clear,Dry,Industrial Area Road,9.350367,78.82424,Severe,3,Speeding
+A0173,2025-05-26,06:57,Cloudy,Dry,Devipattinam Road,9.477293,78.868348,Minor,2,Distracted Driving
+A0174,2024-09-03,00:22,Cloudy,Dry,Bus Stand Junction,9.365328,78.831889,Minor,2,Poor Road Condition
+A0175,2025-06-03,16:50,Cloudy,Dry,East Coast Road,9.298922,78.89968,Fatal,3,Distracted Driving
+A0176,2024-03-10,18:22,Clear,Wet,Rameswaram Road,9.288466,79.314213,Moderate,3,Poor Road Condition
+A0177,2025-07-13,07:22,Clear,Wet,Madurai Road Junction,9.366286,78.80976,Fatal,3,Signal Violation
+A0178,2024-05-18,17:51,Clear,Muddy,Market Road,9.365771,78.834696,Minor,2,Distracted Driving
+A0179,2024-11-13,20:20,Clear,Under Construction,Kilakarai Main Road,9.230972,78.784567,Moderate,2,Poor Road Condition
+A0180,2024-02-18,09:55,Rainy,Dry,Kilakarai Main Road,9.231484,78.783759,Moderate,4,Poor Road Condition
+A0181,2025-05-23,11:11,Cloudy,Dry,Bus Stand Junction,9.368279,78.836299,Minor,2,Signal Violation
+A0182,2024-07-03,05:38,Clear,Dry,Bus Stand Junction,9.367337,78.834603,Moderate,3,Speeding
+A0183,2025-12-07,18:10,Clear,Dry,Industrial Area Road,9.351035,78.824398,Moderate,4,Weather
+A0184,2024-02-28,09:50,Clear,Wet,Bus Stand Junction,9.367836,78.834019,Moderate,3,Distracted Driving
+A0185,2025-11-25,07:38,Rainy,Dry,Ramanathapuram Junction,9.364047,78.83834,Minor,2,Vehicle Failure
+A0186,2025-11-26,02:09,Clear,Dry,Industrial Area Road,9.350037,78.825747,Minor,1,Distracted Driving
+A0187,2024-10-12,12:41,Clear,Dry,Madurai Road Junction,9.367177,78.811439,Minor,2,Weather
+A0188,2024-09-23,06:49,Cloudy,Dry,East Coast Road,9.30323,78.898849,Fatal,3,Poor Road Condition
+A0189,2024-03-16,06:54,Clear,Potholes,Kilakarai Main Road,9.232308,78.785275,Moderate,1,Poor Road Condition
+A0190,2024-03-07,18:45,Clear,Dry,Madurai Road Junction,9.368285,78.808788,Severe,1,Speeding
+A0191,2024-08-17,19:32,Clear,Dry,Paramakudi Highway,9.54474,78.589101,Minor,3,Speeding
+A0192,2025-07-18,16:29,Clear,Potholes,East Coast Road,9.296814,78.899211,Severe,2,Speeding
+A0193,2025-02-23,16:49,Rainy,Under Construction,Market Road,9.364661,78.836426,Moderate,2,Poor Road Condition
+A0194,2025-07-18,07:53,Cloudy,Dry,Madurai Road Junction,9.365513,78.812814,Severe,2,Overtaking
+A0195,2024-06-05,20:33,Clear,Dry,Ramanathapuram Junction,9.365326,78.838635,Severe,2,Overtaking
+A0196,2024-03-21,21:54,Clear,Wet,East Coast Road,9.298652,78.900738,Severe,1,Drunk Driving
+A0197,2024-06-21,06:41,Cloudy,Dry,East Coast Road,9.29802,78.902747,Severe,2,Speeding
+A0198,2024-02-12,20:36,Rainy,Dry,Madurai Road Junction,9.366769,78.809296,Moderate,2,Weather
+A0199,2024-02-01,13:40,Clear,Wet,Industrial Area Road,9.34743,78.827031,Severe,4,Speeding
+A0200,2025-12-06,10:04,Clear,Dry,Bus Stand Junction,9.367328,78.835857,Moderate,2,Distracted Driving
+A0201,2024-12-19,20:20,Windy,Dry,Madurai Road Junction,9.362608,78.809101,Minor,2,Poor Road Condition
+A0202,2024-09-10,06:28,Clear,Dry,Market Road,9.365808,78.83627,Minor,4,Overtaking
+A0203,2025-08-14,19:59,Cloudy,Dry,Paramakudi Highway,9.545325,78.590934,Moderate,5,Speeding
+A0204,2025-02-06,15:05,Clear,Under Construction,Rameswaram Road,9.286399,79.311786,Minor,2,Distracted Driving
+A0205,2025-10-31,17:53,Cloudy,Dry,Market Road,9.36598,78.836972,Minor,1,Speeding
+A0206,2025-02-16,18:48,Clear,Dry,Rameswaram Road,9.289067,79.310313,Moderate,2,Drunk Driving
+A0207,2025-07-17,12:28,Clear,Under Construction,Devipattinam Road,9.475699,78.869917,Severe,1,Weather
+A0208,2025-07-25,12:21,Windy,Muddy,Bus Stand Junction,9.367998,78.832877,Moderate,2,Speeding
+A0209,2024-12-07,03:45,Rainy,Dry,Ramanathapuram Junction,9.366227,78.839674,Severe,1,Overtaking
+A0210,2024-11-02,07:39,Cloudy,Dry,Madurai Road Junction,9.366769,78.810101,Moderate,2,Distracted Driving
+A0211,2024-12-05,19:23,Cloudy,Under Construction,Market Road,9.368891,78.838833,Moderate,3,Poor Road Condition
+A0212,2025-11-02,17:16,Rainy,Wet,Ramanathapuram Junction,9.363527,78.840957,Minor,2,Signal Violation
+A0213,2024-05-31,19:24,Rainy,Wet,Industrial Area Road,9.350968,78.827053,Minor,2,Signal Violation
+A0214,2024-07-27,07:44,Clear,Muddy,Bus Stand Junction,9.366053,78.835029,Severe,4,Overtaking
+A0215,2024-07-31,18:33,Cloudy,Under Construction,Ramanathapuram Junction,9.365488,78.836862,Severe,2,Poor Road Condition
+A0216,2025-07-13,21:21,Clear,Muddy,Market Road,9.364025,78.833141,Severe,3,Weather
+A0217,2024-10-12,15:15,Cloudy,Dry,Industrial Area Road,9.349596,78.826076,Minor,2,Overtaking
+A0218,2024-11-20,18:31,Clear,Dry,Kilakarai Main Road,9.233254,78.785111,Minor,3,Overtaking
+A0219,2025-02-08,18:24,Rainy,Potholes,Industrial Area Road,9.352443,78.82293,Severe,2,Drunk Driving
+A0220,2024-09-19,21:41,Cloudy,Dry,Madurai Road Junction,9.362445,78.809917,Moderate,2,Signal Violation
+A0221,2025-08-23,07:39,Clear,Dry,Rameswaram Road,9.288576,79.311951,Minor,2,Vehicle Failure
+A0222,2025-04-28,13:45,Clear,Muddy,Devipattinam Road,9.474899,78.867866,Fatal,2,Speeding
+A0223,2025-05-02,17:56,Clear,Dry,Bus Stand Junction,9.365543,78.835005,Moderate,2,Overtaking
+A0224,2025-07-01,17:14,Cloudy,Potholes,Devipattinam Road,9.47855,78.86659,Severe,4,Speeding
+A0225,2025-02-10,21:02,Rainy,Muddy,Paramakudi Highway,9.545229,78.588411,Minor,2,Overtaking
+A0226,2024-12-09,16:06,Clear,Under Construction,Rameswaram Road,9.287906,79.313433,Severe,2,Poor Road Condition
+A0227,2024-04-25,14:12,Clear,Wet,East Coast Road,9.298521,78.900756,Minor,3,Poor Road Condition
+A0228,2025-11-21,19:36,Rainy,Potholes,Madurai Road Junction,9.364205,78.808811,Moderate,3,Overtaking
+A0229,2024-07-08,13:06,Windy,Dry,Devipattinam Road,9.477839,78.866447,Minor,1,Overtaking
+A0230,2024-11-05,19:21,Cloudy,Dry,Market Road,9.36497,78.834403,Moderate,2,Speeding
+A0231,2025-02-19,14:10,Cloudy,Under Construction,Devipattinam Road,9.480947,78.868053,Moderate,3,Overtaking
+A0232,2024-08-12,12:14,Windy,Dry,Rameswaram Road,9.28695,79.312321,Minor,5,Weather
+A0233,2025-07-04,21:48,Rainy,Potholes,East Coast Road,9.299832,78.899669,Severe,2,Weather
+A0234,2025-01-05,14:45,Clear,Dry,East Coast Road,9.300921,78.901136,Moderate,2,Speeding
+A0235,2024-12-01,16:10,Rainy,Wet,Industrial Area Road,9.349204,78.824136,Severe,2,Signal Violation
+A0236,2024-05-15,19:29,Clear,Dry,Market Road,9.365387,78.832747,Severe,2,Speeding
+A0237,2024-01-04,12:52,Cloudy,Dry,Ramanathapuram Junction,9.361627,78.84155,Minor,2,Speeding
+A0238,2025-04-28,21:04,Clear,Dry,Ramanathapuram Junction,9.366367,78.839126,Severe,3,Signal Violation
+A0239,2025-01-26,12:57,Clear,Potholes,Bus Stand Junction,9.368365,78.834467,Severe,1,Poor Road Condition
+A0240,2024-12-22,07:55,Clear,Under Construction,East Coast Road,9.304618,78.901679,Severe,1,Poor Road Condition
+A0241,2025-04-19,19:19,Cloudy,Dry,Ramanathapuram Junction,9.363708,78.838067,Moderate,3,Drunk Driving
+A0242,2024-04-25,07:12,Clear,Wet,Madurai Road Junction,9.36259,78.810305,Severe,4,Poor Road Condition
+A0243,2025-08-31,08:06,Clear,Dry,Kilakarai Main Road,9.229865,78.782867,Moderate,1,Weather
+A0244,2024-08-10,14:34,Rainy,Dry,Bus Stand Junction,9.36653,78.832378,Severe,2,Overtaking
+A0245,2025-11-19,10:38,Rainy,Potholes,Industrial Area Road,9.352531,78.826322,Minor,2,Overtaking
+A0246,2024-06-28,04:37,Cloudy,Dry,Rameswaram Road,9.287988,79.31422,Fatal,5,Distracted Driving
+A0247,2025-12-14,19:20,Clear,Dry,Bus Stand Junction,9.367616,78.832708,Moderate,3,Distracted Driving
+A0248,2024-05-27,10:45,Rainy,Wet,Kilakarai Main Road,9.233285,78.785808,Minor,2,Overtaking
+A0249,2025-10-24,09:21,Clear,Dry,Kilakarai Main Road,9.229444,78.784714,Moderate,2,Distracted Driving
+A0250,2025-09-11,09:43,Cloudy,Potholes,Ramanathapuram Junction,9.362587,78.837426,Moderate,3,Distracted Driving
+A0251,2024-12-06,08:13,Clear,Potholes,East Coast Road,9.301389,78.902864,Moderate,2,Distracted Driving
+A0252,2025-09-10,21:44,Cloudy,Dry,Market Road,9.363702,78.837044,Moderate,2,Speeding
+A0253,2024-11-11,16:22,Clear,Dry,Market Road,9.364824,78.835469,Fatal,1,Distracted Driving
+A0254,2024-07-27,19:20,Clear,Dry,Market Road,9.364911,78.834904,Minor,2,Drunk Driving
+A0255,2025-08-16,16:37,Cloudy,Dry,Rameswaram Road,9.288073,79.310754,Moderate,2,Speeding
+A0256,2025-12-02,15:41,Clear,Muddy,Kilakarai Main Road,9.231406,78.784925,Moderate,3,Distracted Driving
+A0257,2024-12-26,07:50,Clear,Wet,Market Road,9.365442,78.834839,Moderate,4,Distracted Driving
+A0258,2024-03-17,15:53,Windy,Wet,Ramanathapuram Junction,9.363035,78.840633,Moderate,2,Signal Violation
+A0259,2024-01-10,05:09,Clear,Dry,Kilakarai Main Road,9.231751,78.783534,Fatal,3,Speeding
+A0260,2024-01-07,17:01,Clear,Dry,Market Road,9.365949,78.837327,Moderate,3,Speeding
+A0261,2025-12-15,01:52,Cloudy,Potholes,Rameswaram Road,9.285496,79.312815,Minor,1,Overtaking
+A0262,2025-06-23,09:39,Clear,Dry,Paramakudi Highway,9.545006,78.590856,Severe,1,Signal Violation
+A0263,2024-08-19,16:44,Clear,Potholes,Market Road,9.364655,78.833493,Fatal,5,Speeding
+A0264,2025-01-21,06:24,Cloudy,Dry,Ramanathapuram Junction,9.361459,78.839572,Moderate,1,Speeding
+A0265,2025-08-02,17:21,Windy,Under Construction,Bus Stand Junction,9.36789,78.832644,Minor,4,Overtaking
+A0266,2024-03-17,15:02,Cloudy,Dry,Industrial Area Road,9.350958,78.822508,Moderate,3,Drunk Driving
+A0267,2025-08-24,01:13,Clear,Potholes,Madurai Road Junction,9.364901,78.808183,Moderate,4,Vehicle Failure
+A0268,2025-02-02,09:53,Cloudy,Dry,Industrial Area Road,9.349022,78.825071,Moderate,3,Distracted Driving
+A0269,2024-02-24,15:22,Clear,Dry,Devipattinam Road,9.476709,78.867423,Severe,2,Speeding
+A0270,2024-11-30,12:49,Clear,Dry,Industrial Area Road,9.351509,78.824135,Minor,2,Overtaking
+A0271,2025-08-22,13:43,Cloudy,Dry,Bus Stand Junction,9.368754,78.832305,Moderate,3,Poor Road Condition
+A0272,2025-12-29,09:24,Rainy,Wet,Devipattinam Road,9.478795,78.870162,Severe,1,Poor Road Condition
+A0273,2024-04-14,11:17,Clear,Dry,Market Road,9.362093,78.835005,Minor,2,Distracted Driving
+A0274,2024-04-05,06:35,Cloudy,Muddy,Ramanathapuram Junction,9.364766,78.839195,Minor,1,Vehicle Failure
+A0275,2024-09-05,18:35,Cloudy,Dry,Devipattinam Road,9.478557,78.867094,Minor,1,Distracted Driving
+A0276,2025-03-21,07:10,Clear,Dry,Market Road,9.36593,78.835966,Severe,2,Signal Violation
+A0277,2025-04-13,17:12,Clear,Dry,Market Road,9.367552,78.836582,Moderate,2,Overtaking
+A0278,2025-10-28,14:27,Windy,Dry,Madurai Road Junction,9.365506,78.809382,Moderate,4,Drunk Driving
+A0279,2024-11-22,08:25,Clear,Wet,Madurai Road Junction,9.364269,78.809351,Minor,2,Distracted Driving
+A0280,2025-02-06,09:50,Clear,Under Construction,Bus Stand Junction,9.368092,78.833369,Minor,5,Distracted Driving
+A0281,2025-04-17,02:46,Windy,Dry,East Coast Road,9.300435,78.903113,Minor,3,Vehicle Failure
+A0282,2025-10-10,18:08,Clear,Dry,Bus Stand Junction,9.368807,78.833511,Moderate,2,Speeding
+A0283,2025-08-19,23:30,Clear,Dry,Market Road,9.367602,78.835588,Moderate,3,Overtaking
+A0284,2025-07-03,18:51,Cloudy,Potholes,Madurai Road Junction,9.361943,78.808488,Severe,2,Speeding
+A0285,2025-07-30,17:02,Windy,Wet,Paramakudi Highway,9.543194,78.589473,Severe,3,Poor Road Condition
+A0286,2024-09-21,06:06,Clear,Wet,Bus Stand Junction,9.367528,78.836515,Moderate,3,Drunk Driving
+A0287,2025-11-26,12:49,Cloudy,Dry,Madurai Road Junction,9.36549,78.809671,Minor,1,Distracted Driving
+A0288,2024-04-28,21:05,Rainy,Wet,Bus Stand Junction,9.368744,78.830683,Moderate,3,Poor Road Condition
+A0289,2025-12-14,15:28,Clear,Dry,Madurai Road Junction,9.365353,78.811156,Minor,3,Speeding
+A0290,2024-06-17,17:43,Windy,Wet,Madurai Road Junction,9.362782,78.811716,Minor,2,Weather
+A0291,2025-02-18,22:14,Cloudy,Dry,Bus Stand Junction,9.368008,78.833377,Moderate,2,Poor Road Condition
+A0292,2025-02-02,14:27,Clear,Dry,Kilakarai Main Road,9.231949,78.788406,Severe,3,Speeding
+A0293,2025-07-03,06:55,Clear,Dry,Industrial Area Road,9.350273,78.825372,Severe,2,Distracted Driving
+A0294,2025-09-03,22:20,Clear,Dry,East Coast Road,9.299311,78.898725,Moderate,2,Speeding
+A0295,2024-10-31,19:45,Foggy,Dry,Paramakudi Highway,9.547246,78.588716,Minor,2,Weather
+A0296,2024-05-24,08:44,Clear,Dry,Devipattinam Road,9.478107,78.867284,Moderate,2,Speeding
+A0297,2024-06-26,18:41,Cloudy,Dry,East Coast Road,9.300718,78.9005,Moderate,2,Speeding
+A0298,2025-05-11,20:00,Clear,Potholes,Ramanathapuram Junction,9.365456,78.838735,Moderate,2,Overtaking
+A0299,2025-03-30,13:53,Clear,Dry,Market Road,9.365395,78.834732,Moderate,3,Speeding
+A0300,2024-06-21,08:18,Rainy,Potholes,Rameswaram Road,9.287334,79.312566,Moderate,2,Poor Road Condition
+A0301,2025-01-10,19:52,Clear,Muddy,Rameswaram Road,9.289135,79.310617,Minor,2,Signal Violation
+A0302,2025-10-31,06:53,Rainy,Under Construction,Bus Stand Junction,9.368804,78.836033,Moderate,2,Poor Road Condition
+A0303,2024-08-30,20:07,Clear,Wet,Market Road,9.36642,78.839015,Severe,4,Weather
+A0304,2024-07-30,07:08,Rainy,Wet,Bus Stand Junction,9.366339,78.832133,Minor,2,Weather
+A0305,2025-06-10,10:17,Windy,Wet,Rameswaram Road,9.285332,79.314244,Fatal,5,Speeding
+A0306,2025-11-02,23:55,Clear,Potholes,Ramanathapuram Junction,9.364882,78.839417,Severe,3,Distracted Driving
+A0307,2025-10-09,15:36,Clear,Dry,Bus Stand Junction,9.36792,78.832312,Severe,3,Distracted Driving
+A0308,2024-10-11,13:47,Cloudy,Potholes,Devipattinam Road,9.481669,78.868194,Moderate,2,Poor Road Condition
+A0309,2025-10-12,18:29,Cloudy,Dry,Devipattinam Road,9.478164,78.869089,Moderate,2,Speeding
+A0310,2024-10-01,19:31,Clear,Dry,Bus Stand Junction,9.368222,78.834336,Severe,1,Drunk Driving
+A0311,2024-02-19,21:48,Clear,Wet,Madurai Road Junction,9.363814,78.810707,Fatal,1,Signal Violation
+A0312,2025-03-14,14:00,Clear,Wet,Paramakudi Highway,9.548823,78.592018,Moderate,3,Speeding
+A0313,2024-09-13,06:23,Clear,Wet,Rameswaram Road,9.29039,79.311233,Moderate,1,Poor Road Condition
+A0314,2025-12-21,13:05,Clear,Dry,Kilakarai Main Road,9.229516,78.784811,Moderate,2,Speeding
+A0315,2024-12-17,00:44,Rainy,Wet,Market Road,9.365884,78.837841,Severe,1,Speeding
+A0316,2024-11-02,06:23,Clear,Muddy,Devipattinam Road,9.475461,78.870294,Fatal,1,Signal Violation
+A0317,2024-01-09,05:36,Cloudy,Dry,Paramakudi Highway,9.545763,78.58936,Moderate,2,Distracted Driving
+A0318,2024-08-10,17:28,Clear,Dry,Bus Stand Junction,9.365982,78.831518,Minor,2,Signal Violation
+A0319,2024-09-10,10:08,Clear,Dry,Bus Stand Junction,9.368735,78.83411,Severe,2,Drunk Driving
+A0320,2024-11-04,20:42,Clear,Wet,Ramanathapuram Junction,9.361965,78.837557,Severe,2,Speeding
+A0321,2024-09-03,15:07,Clear,Dry,Kilakarai Main Road,9.230496,78.787504,Fatal,5,Drunk Driving
+A0322,2025-08-05,07:55,Clear,Dry,Madurai Road Junction,9.364611,78.807745,Fatal,2,Speeding
+A0323,2024-01-15,01:04,Clear,Dry,Devipattinam Road,9.477631,78.867591,Moderate,3,Speeding
+A0324,2025-12-19,19:27,Clear,Wet,East Coast Road,9.295955,78.899919,Minor,1,Drunk Driving
+A0325,2024-06-08,15:13,Clear,Dry,Devipattinam Road,9.477654,78.869044,Moderate,3,Poor Road Condition
+A0326,2024-09-01,10:27,Clear,Dry,Devipattinam Road,9.480773,78.86969,Moderate,2,Distracted Driving
+A0327,2024-06-28,18:42,Clear,Wet,Rameswaram Road,9.287597,79.31034,Severe,1,Weather
+A0328,2024-09-22,15:52,Clear,Dry,East Coast Road,9.30386,78.900089,Severe,2,Signal Violation
+A0329,2024-10-05,11:27,Clear,Dry,Ramanathapuram Junction,9.363921,78.839464,Moderate,2,Overtaking
+A0330,2025-08-03,11:31,Clear,Dry,East Coast Road,9.300297,78.899783,Moderate,4,Signal Violation
+A0331,2024-01-03,08:32,Clear,Potholes,Devipattinam Road,9.47714,78.86718,Minor,2,Distracted Driving
+A0332,2024-02-06,08:54,Cloudy,Potholes,Paramakudi Highway,9.545951,78.589185,Minor,2,Signal Violation
+A0333,2024-10-04,21:20,Rainy,Dry,Bus Stand Junction,9.366431,78.83416,Minor,1,Weather
+A0334,2024-03-11,23:25,Foggy,Potholes,East Coast Road,9.299618,78.902256,Minor,2,Signal Violation
+A0335,2024-10-25,00:12,Cloudy,Dry,Market Road,9.361824,78.837837,Moderate,2,Poor Road Condition
+A0336,2024-07-19,23:49,Cloudy,Dry,Market Road,9.367669,78.83309,Severe,1,Signal Violation
+A0337,2025-10-13,08:22,Rainy,Under Construction,Ramanathapuram Junction,9.363386,78.838943,Severe,3,Speeding
+A0338,2024-08-31,06:33,Clear,Under Construction,Rameswaram Road,9.285889,79.310833,Minor,1,Overtaking
+A0339,2025-06-16,21:57,Clear,Potholes,Ramanathapuram Junction,9.362234,78.842128,Moderate,3,Poor Road Condition
+A0340,2025-02-07,07:52,Clear,Dry,East Coast Road,9.301404,78.901907,Minor,5,Distracted Driving
+A0341,2025-02-06,20:59,Cloudy,Wet,Rameswaram Road,9.289083,79.310306,Minor,2,Distracted Driving
+A0342,2025-08-21,07:49,Clear,Dry,Kilakarai Main Road,9.230213,78.785734,Minor,2,Distracted Driving
+A0343,2025-04-07,22:13,Clear,Dry,Madurai Road Junction,9.363167,78.811069,Severe,1,Speeding
+A0344,2024-12-01,03:53,Clear,Wet,Industrial Area Road,9.34964,78.824438,Minor,2,Overtaking
+A0345,2024-02-01,09:11,Windy,Potholes,Rameswaram Road,9.289066,79.312666,Minor,2,Poor Road Condition
+A0346,2024-05-04,19:08,Clear,Potholes,Devipattinam Road,9.477459,78.869739,Moderate,1,Overtaking
+A0347,2024-03-27,18:41,Cloudy,Dry,Madurai Road Junction,9.363378,78.810924,Minor,1,Signal Violation
+A0348,2024-12-05,19:05,Clear,Under Construction,Market Road,9.36669,78.835736,Moderate,4,Speeding
+A0349,2025-11-30,15:24,Clear,Dry,Bus Stand Junction,9.367989,78.832123,Minor,2,Vehicle Failure
+A0350,2025-09-23,02:39,Clear,Dry,Paramakudi Highway,9.547386,78.589723,Minor,2,Distracted Driving
+A0351,2024-07-23,12:26,Cloudy,Muddy,Rameswaram Road,9.287216,79.313574,Severe,5,Speeding
+A0352,2025-01-02,23:50,Clear,Muddy,Ramanathapuram Junction,9.362843,78.837387,Moderate,2,Distracted Driving
+A0353,2025-09-03,08:20,Clear,Potholes,Rameswaram Road,9.285665,79.312909,Fatal,1,Signal Violation
+A0354,2024-08-26,11:37,Windy,Dry,East Coast Road,9.298079,78.902632,Moderate,2,Weather
+A0355,2025-08-12,19:14,Rainy,Wet,Ramanathapuram Junction,9.360777,78.842045,Minor,3,Vehicle Failure
+A0356,2025-12-15,10:47,Clear,Dry,Industrial Area Road,9.350317,78.824855,Moderate,2,Weather
+A0357,2025-05-19,16:12,Clear,Dry,Paramakudi Highway,9.545183,78.590599,Severe,1,Speeding
+A0358,2024-12-05,16:00,Foggy,Dry,Ramanathapuram Junction,9.363844,78.841155,Severe,3,Speeding
+A0359,2025-08-23,04:09,Cloudy,Dry,Madurai Road Junction,9.365171,78.810225,Moderate,2,Speeding
+A0360,2025-02-09,12:42,Cloudy,Dry,Devipattinam Road,9.477455,78.867915,Moderate,5,Distracted Driving
+A0361,2025-10-26,19:31,Clear,Wet,Bus Stand Junction,9.367962,78.831435,Fatal,4,Drunk Driving
+A0362,2024-06-28,08:37,Clear,Wet,Madurai Road Junction,9.362978,78.811115,Minor,1,Speeding
+A0363,2025-08-04,12:49,Clear,Wet,Industrial Area Road,9.350256,78.824724,Moderate,5,Overtaking
+A0364,2024-05-24,06:31,Clear,Dry,Industrial Area Road,9.350028,78.825521,Moderate,2,Distracted Driving
+A0365,2025-10-16,19:42,Cloudy,Dry,Devipattinam Road,9.47719,78.866833,Severe,2,Speeding
+A0366,2024-01-02,09:06,Clear,Dry,Madurai Road Junction,9.365294,78.808532,Minor,1,Distracted Driving
+A0367,2024-04-13,11:24,Rainy,Wet,Bus Stand Junction,9.368112,78.831446,Moderate,2,Signal Violation
+A0368,2024-09-24,10:20,Windy,Dry,Ramanathapuram Junction,9.365444,78.840209,Severe,2,Speeding
+A0369,2024-12-12,22:05,Cloudy,Wet,East Coast Road,9.300384,78.901474,Fatal,1,Distracted Driving
+A0370,2024-06-09,17:27,Clear,Dry,Paramakudi Highway,9.548498,78.591522,Moderate,2,Overtaking
+A0371,2024-10-31,09:18,Clear,Dry,East Coast Road,9.297239,78.898081,Moderate,3,Drunk Driving
+A0372,2024-10-28,00:05,Rainy,Wet,Madurai Road Junction,9.364063,78.810039,Fatal,2,Speeding
+A0373,2024-11-11,14:07,Rainy,Potholes,Devipattinam Road,9.478776,78.866911,Moderate,3,Drunk Driving
+A0374,2024-07-10,20:23,Clear,Dry,Madurai Road Junction,9.36528,78.808867,Minor,2,Distracted Driving
+A0375,2025-11-14,07:44,Clear,Wet,Ramanathapuram Junction,9.362983,78.83739,Moderate,2,Signal Violation
+A0376,2025-01-31,16:53,Rainy,Wet,Kilakarai Main Road,9.229615,78.782972,Severe,2,Overtaking
+A0377,2024-02-05,10:25,Clear,Potholes,Market Road,9.364336,78.83778,Moderate,3,Vehicle Failure
+A0378,2024-06-26,22:28,Windy,Dry,Devipattinam Road,9.476576,78.871949,Minor,2,Distracted Driving
+A0379,2024-07-25,23:27,Windy,Wet,Devipattinam Road,9.47874,78.868277,Severe,2,Vehicle Failure
+A0380,2025-02-10,05:35,Cloudy,Potholes,Devipattinam Road,9.476712,78.86905,Minor,4,Poor Road Condition
+A0381,2025-03-05,17:50,Clear,Dry,Industrial Area Road,9.349137,78.825183,Fatal,2,Drunk Driving
+A0382,2024-04-13,21:36,Rainy,Potholes,Devipattinam Road,9.48184,78.867856,Severe,2,Overtaking
+A0383,2024-06-25,17:02,Clear,Dry,Industrial Area Road,9.351724,78.823945,Minor,3,Poor Road Condition
+A0384,2025-05-01,18:03,Windy,Potholes,Madurai Road Junction,9.364948,78.812656,Moderate,3,Speeding
+A0385,2025-12-13,20:54,Cloudy,Under Construction,Rameswaram Road,9.28706,79.314719,Moderate,2,Distracted Driving
+A0386,2025-09-11,09:26,Cloudy,Dry,Madurai Road Junction,9.366062,78.809156,Severe,3,Speeding
+A0387,2024-02-27,20:52,Clear,Dry,East Coast Road,9.300949,78.901459,Minor,2,Distracted Driving
+A0388,2024-06-26,20:01,Clear,Potholes,East Coast Road,9.300933,78.897645,Moderate,2,Vehicle Failure
+A0389,2025-01-12,18:17,Rainy,Wet,Madurai Road Junction,9.363909,78.809629,Moderate,1,Speeding
+A0390,2025-04-30,14:55,Cloudy,Dry,Industrial Area Road,9.349888,78.825931,Severe,4,Speeding
+A0391,2024-02-20,09:24,Clear,Dry,Devipattinam Road,9.478267,78.865997,Moderate,3,Overtaking
+A0392,2025-06-09,09:26,Clear,Muddy,Kilakarai Main Road,9.23157,78.785916,Severe,1,Signal Violation
+A0393,2024-08-17,17:00,Clear,Potholes,Paramakudi Highway,9.54684,78.591621,Severe,5,Poor Road Condition
+A0394,2024-12-23,21:54,Clear,Dry,Bus Stand Junction,9.368751,78.834689,Moderate,2,Distracted Driving
+A0395,2025-11-09,06:32,Windy,Potholes,Industrial Area Road,9.349895,78.822509,Minor,2,Poor Road Condition
+A0396,2024-10-10,15:21,Cloudy,Potholes,Devipattinam Road,9.478644,78.868312,Severe,3,Drunk Driving
+A0397,2024-09-03,08:33,Foggy,Potholes,Rameswaram Road,9.288407,79.310085,Moderate,2,Vehicle Failure
+A0398,2025-05-24,18:41,Windy,Dry,Paramakudi Highway,9.544378,78.59158,Minor,2,Poor Road Condition
+A0399,2024-08-15,19:21,Cloudy,Wet,Industrial Area Road,9.349941,78.826022,Moderate,4,Distracted Driving
+A0400,2025-11-04,20:53,Foggy,Dry,Rameswaram Road,9.288042,79.312045,Moderate,1,Speeding
+A0401,2025-11-27,19:11,Foggy,Wet,East Coast Road,9.301407,78.899226,Severe,2,Distracted Driving
+A0402,2025-01-15,19:21,Clear,Dry,Bus Stand Junction,9.367644,78.833307,Severe,2,Signal Violation
+A0403,2024-03-13,16:39,Clear,Dry,Industrial Area Road,9.349348,78.824536,Moderate,3,Speeding
+A0404,2024-06-03,04:54,Clear,Dry,Bus Stand Junction,9.367833,78.833282,Severe,2,Distracted Driving
+A0405,2024-07-03,07:55,Rainy,Wet,Market Road,9.367684,78.834858,Minor,3,Speeding
+A0406,2024-06-21,08:49,Cloudy,Dry,Rameswaram Road,9.28772,79.31134,Minor,3,Signal Violation
+A0407,2025-03-15,17:25,Windy,Dry,Bus Stand Junction,9.36967,78.834295,Moderate,2,Speeding
+A0408,2025-06-27,21:48,Clear,Wet,Ramanathapuram Junction,9.365448,78.837272,Severe,2,Poor Road Condition
+A0409,2025-01-27,10:06,Clear,Dry,Madurai Road Junction,9.365401,78.811334,Fatal,1,Speeding
+A0410,2025-06-20,18:38,Clear,Potholes,Market Road,9.365923,78.837798,Severe,2,Overtaking
+A0411,2025-02-17,19:10,Clear,Dry,Madurai Road Junction,9.364224,78.812114,Minor,2,Overtaking
+A0412,2025-12-29,07:23,Cloudy,Dry,East Coast Road,9.303448,78.899456,Moderate,2,Vehicle Failure
+A0413,2025-11-08,17:03,Clear,Potholes,Ramanathapuram Junction,9.363232,78.84168,Moderate,1,Speeding
+A0414,2025-12-19,16:30,Clear,Wet,Devipattinam Road,9.480369,78.867216,Moderate,2,Poor Road Condition
+A0415,2025-12-18,09:38,Clear,Potholes,East Coast Road,9.29937,78.899577,Minor,3,Speeding
+A0416,2024-07-22,19:31,Cloudy,Muddy,Devipattinam Road,9.475983,78.866622,Moderate,5,Signal Violation
+A0417,2025-07-15,10:02,Clear,Dry,Bus Stand Junction,9.365994,78.832848,Minor,2,Overtaking
+A0418,2025-08-10,21:53,Cloudy,Dry,Devipattinam Road,9.477948,78.868351,Severe,2,Speeding
+A0419,2024-08-24,21:41,Clear,Under Construction,Devipattinam Road,9.480326,78.866502,Severe,1,Drunk Driving
+A0420,2025-11-24,20:23,Clear,Wet,Ramanathapuram Junction,9.365376,78.839179,Minor,3,Speeding
+A0421,2024-12-02,18:10,Clear,Dry,Paramakudi Highway,9.545926,78.591012,Minor,4,Poor Road Condition
+A0422,2025-02-13,08:25,Windy,Dry,Madurai Road Junction,9.363316,78.810574,Moderate,3,Poor Road Condition
+A0423,2024-03-01,06:44,Windy,Potholes,Paramakudi Highway,9.54625,78.590739,Severe,4,Speeding
+A0424,2025-09-17,18:11,Clear,Dry,Industrial Area Road,9.350434,78.828683,Severe,3,Speeding
+A0425,2024-04-25,15:31,Foggy,Dry,Paramakudi Highway,9.545043,78.589204,Minor,3,Speeding
+A0426,2025-08-01,19:36,Clear,Under Construction,East Coast Road,9.299065,78.899167,Moderate,2,Overtaking
+A0427,2024-09-11,06:42,Clear,Wet,Industrial Area Road,9.349044,78.826784,Moderate,1,Poor Road Condition
+A0428,2024-06-09,04:41,Clear,Dry,Industrial Area Road,9.352131,78.824144,Moderate,1,Distracted Driving
+A0429,2024-02-21,09:17,Clear,Dry,Madurai Road Junction,9.363751,78.810707,Minor,3,Distracted Driving
+A0430,2024-03-31,19:28,Rainy,Dry,Market Road,9.364972,78.837149,Minor,3,Weather
+A0431,2024-01-01,02:35,Rainy,Under Construction,Bus Stand Junction,9.367804,78.831726,Moderate,4,Poor Road Condition
+A0432,2024-02-25,22:23,Rainy,Wet,Market Road,9.368121,78.838894,Severe,2,Signal Violation
+A0433,2024-04-09,18:07,Rainy,Wet,Madurai Road Junction,9.364081,78.809418,Moderate,5,Vehicle Failure
+A0434,2024-02-16,12:06,Foggy,Dry,East Coast Road,9.300429,78.900502,Minor,3,Vehicle Failure
+A0435,2024-05-03,17:12,Windy,Dry,Rameswaram Road,9.288988,79.315015,Moderate,3,Weather
+A0436,2025-10-10,19:02,Rainy,Potholes,Devipattinam Road,9.477735,78.866803,Severe,3,Poor Road Condition
+A0437,2025-06-27,22:00,Cloudy,Dry,Paramakudi Highway,9.543931,78.588904,Severe,2,Distracted Driving
+A0438,2024-05-11,18:11,Clear,Wet,Paramakudi Highway,9.54595,78.592692,Severe,2,Poor Road Condition
+A0439,2025-12-10,23:58,Rainy,Under Construction,Bus Stand Junction,9.366724,78.834336,Minor,2,Overtaking
+A0440,2025-06-08,17:56,Clear,Wet,Bus Stand Junction,9.367475,78.835783,Severe,3,Vehicle Failure
+A0441,2024-10-24,08:39,Cloudy,Under Construction,Kilakarai Main Road,9.23479,78.784204,Fatal,3,Speeding
+A0442,2025-10-14,15:44,Clear,Dry,Paramakudi Highway,9.545266,78.591566,Moderate,2,Distracted Driving
+A0443,2025-06-30,18:57,Clear,Potholes,Bus Stand Junction,9.368523,78.83677,Minor,2,Vehicle Failure
+A0444,2024-07-23,04:03,Clear,Muddy,Paramakudi Highway,9.546876,78.589461,Minor,3,Overtaking
+A0445,2024-07-27,18:18,Rainy,Potholes,Ramanathapuram Junction,9.364786,78.841163,Fatal,4,Speeding
+A0446,2025-02-02,18:35,Clear,Muddy,Kilakarai Main Road,9.232231,78.785761,Moderate,2,Signal Violation
+A0447,2025-12-02,12:50,Clear,Dry,Bus Stand Junction,9.3691,78.835754,Severe,2,Speeding
+A0448,2025-10-10,20:58,Cloudy,Wet,Market Road,9.367873,78.837173,Moderate,2,Signal Violation
+A0449,2025-11-30,10:11,Clear,Under Construction,Kilakarai Main Road,9.230749,78.78522,Minor,1,Signal Violation
+A0450,2024-06-13,16:08,Cloudy,Dry,Rameswaram Road,9.28981,79.310775,Minor,3,Distracted Driving
+A0451,2024-02-22,21:38,Rainy,Potholes,Paramakudi Highway,9.546553,78.58941,Moderate,3,Poor Road Condition
+A0452,2025-06-22,19:20,Clear,Dry,Devipattinam Road,9.478043,78.869918,Moderate,2,Speeding
+A0453,2024-08-14,13:22,Foggy,Wet,East Coast Road,9.300287,78.90007,Fatal,2,Drunk Driving
+A0454,2025-10-26,16:35,Clear,Wet,Industrial Area Road,9.34796,78.826119,Severe,4,Distracted Driving
+A0455,2025-11-29,09:02,Foggy,Dry,Industrial Area Road,9.350968,78.828245,Minor,1,Vehicle Failure
+A0456,2025-01-18,01:33,Clear,Dry,Rameswaram Road,9.287538,79.312329,Moderate,2,Distracted Driving
+A0457,2024-06-20,15:06,Windy,Muddy,Madurai Road Junction,9.365374,78.812366,Minor,2,Weather
+A0458,2024-04-16,20:27,Clear,Potholes,Kilakarai Main Road,9.230857,78.785419,Minor,3,Overtaking
+A0459,2024-01-25,18:09,Clear,Dry,Devipattinam Road,9.478912,78.86828,Severe,1,Speeding
+A0460,2024-08-21,05:52,Foggy,Dry,East Coast Road,9.29933,78.900291,Minor,2,Weather
+A0461,2024-01-07,18:34,Cloudy,Wet,Bus Stand Junction,9.36911,78.83246,Moderate,2,Signal Violation
+A0462,2024-04-18,11:32,Clear,Wet,Devipattinam Road,9.478199,78.86695,Severe,2,Poor Road Condition
+A0463,2024-02-01,12:42,Clear,Dry,Bus Stand Junction,9.369293,78.831715,Severe,2,Speeding
+A0464,2024-05-27,10:40,Clear,Potholes,East Coast Road,9.299162,78.900566,Severe,4,Overtaking
+A0465,2024-05-24,16:35,Clear,Dry,Ramanathapuram Junction,9.366248,78.839401,Fatal,2,Drunk Driving
+A0466,2024-12-18,08:47,Clear,Potholes,Rameswaram Road,9.287167,79.314822,Minor,1,Vehicle Failure
+A0467,2024-04-27,20:12,Clear,Muddy,Industrial Area Road,9.347828,78.821702,Severe,3,Signal Violation
+A0468,2024-03-15,14:35,Clear,Dry,East Coast Road,9.30066,78.899247,Moderate,3,Speeding
+A0469,2025-11-02,11:42,Clear,Dry,Madurai Road Junction,9.363468,78.811063,Moderate,2,Speeding
+A0470,2025-12-11,17:19,Cloudy,Dry,Madurai Road Junction,9.365366,78.809154,Minor,2,Distracted Driving
+A0471,2024-08-14,10:50,Cloudy,Wet,Ramanathapuram Junction,9.36198,78.840809,Severe,2,Speeding
+A0472,2025-04-01,20:29,Clear,Dry,Madurai Road Junction,9.365975,78.809851,Severe,1,Drunk Driving
+A0473,2025-07-05,20:08,Clear,Wet,Rameswaram Road,9.29077,79.310395,Severe,3,Poor Road Condition
+A0474,2025-08-18,17:52,Cloudy,Muddy,East Coast Road,9.297712,78.898962,Moderate,1,Speeding
+A0475,2024-06-01,14:49,Clear,Dry,East Coast Road,9.299932,78.900365,Minor,3,Signal Violation
+A0476,2025-02-10,15:05,Clear,Dry,Market Road,9.365438,78.836728,Fatal,5,Speeding
+A0477,2025-04-01,19:08,Clear,Dry,Paramakudi Highway,9.544123,78.592166,Minor,4,Drunk Driving
+A0478,2024-08-12,22:02,Rainy,Wet,Market Road,9.365677,78.837876,Moderate,3,Distracted Driving
+A0479,2025-04-10,12:58,Foggy,Dry,Madurai Road Junction,9.365514,78.810685,Severe,1,Weather
+A0480,2025-08-15,20:16,Clear,Dry,Rameswaram Road,9.288855,79.312672,Moderate,2,Poor Road Condition
+A0481,2024-08-16,15:24,Clear,Dry,Devipattinam Road,9.478964,78.869994,Moderate,2,Vehicle Failure
+A0482,2024-05-22,00:56,Clear,Dry,Industrial Area Road,9.350295,78.826064,Minor,2,Distracted Driving
+A0483,2024-05-01,11:45,Cloudy,Dry,Paramakudi Highway,9.545865,78.59216,Moderate,1,Distracted Driving
+A0484,2025-10-24,08:10,Rainy,Dry,Market Road,9.364785,78.838901,Moderate,1,Weather
+A0485,2024-02-27,21:09,Clear,Under Construction,Ramanathapuram Junction,9.36384,78.837354,Severe,2,Poor Road Condition
+A0486,2025-11-08,20:46,Rainy,Wet,Ramanathapuram Junction,9.364092,78.838478,Moderate,2,Weather
+A0487,2024-05-26,20:38,Rainy,Dry,Kilakarai Main Road,9.232261,78.784021,Moderate,2,Weather
+A0488,2025-08-27,21:38,Clear,Dry,Madurai Road Junction,9.364331,78.807166,Moderate,1,Speeding
+A0489,2024-06-02,18:52,Cloudy,Dry,East Coast Road,9.299322,78.896364,Severe,2,Vehicle Failure
+A0490,2024-04-05,15:07,Clear,Dry,East Coast Road,9.297624,78.901141,Severe,3,Poor Road Condition
+A0491,2024-02-14,15:23,Cloudy,Dry,Bus Stand Junction,9.368679,78.834638,Moderate,2,Overtaking
+A0492,2025-12-14,17:47,Cloudy,Dry,Madurai Road Junction,9.36355,78.809928,Severe,3,Speeding
+A0493,2025-07-10,09:56,Clear,Dry,Devipattinam Road,9.477995,78.866262,Moderate,3,Weather
+A0494,2025-11-01,15:24,Clear,Potholes,Devipattinam Road,9.480255,78.869316,Minor,1,Poor Road Condition
+A0495,2025-07-02,09:54,Clear,Dry,Industrial Area Road,9.349669,78.82504,Severe,3,Speeding
+A0496,2025-05-09,16:35,Clear,Dry,Bus Stand Junction,9.367813,78.830937,Moderate,5,Distracted Driving
+A0497,2025-11-06,18:54,Clear,Dry,Bus Stand Junction,9.367129,78.832977,Minor,4,Signal Violation
+A0498,2025-07-17,13:21,Cloudy,Wet,East Coast Road,9.298498,78.899578,Severe,2,Speeding
+A0499,2025-09-06,19:30,Clear,Dry,Devipattinam Road,9.480697,78.868961,Minor,1,Speeding
+A0500,2025-09-20,21:25,Cloudy,Dry,Bus Stand Junction,9.366643,78.834859,Moderate,1,Overtaking
+A0501,2024-01-11,17:28,Clear,Wet,Paramakudi Highway,9.548099,78.591387,Minor,2,Signal Violation
+A0502,2024-08-25,15:44,Cloudy,Wet,Industrial Area Road,9.350089,78.82403,Severe,3,Distracted Driving
+A0503,2025-02-13,23:49,Clear,Dry,Devipattinam Road,9.479047,78.86859,Severe,2,Drunk Driving
+A0504,2024-10-18,21:35,Cloudy,Dry,Devipattinam Road,9.479343,78.868953,Severe,2,Drunk Driving
+A0505,2025-04-10,17:12,Windy,Dry,Kilakarai Main Road,9.232574,78.784197,Minor,2,Distracted Driving
+A0506,2024-04-29,15:21,Rainy,Potholes,Devipattinam Road,9.479976,78.868296,Moderate,2,Vehicle Failure
+A0507,2024-09-06,16:49,Rainy,Wet,Bus Stand Junction,9.370613,78.832966,Minor,2,Weather
+A0508,2025-10-10,09:24,Rainy,Muddy,Devipattinam Road,9.480604,78.868297,Minor,2,Vehicle Failure
+A0509,2024-09-26,00:53,Clear,Dry,East Coast Road,9.299023,78.899274,Minor,3,Poor Road Condition
+A0510,2024-08-11,15:22,Foggy,Dry,Paramakudi Highway,9.545519,78.590636,Severe,3,Overtaking
+A0511,2024-09-04,18:15,Foggy,Dry,Market Road,9.366584,78.835339,Moderate,2,Distracted Driving
+A0512,2024-03-21,19:07,Cloudy,Wet,Paramakudi Highway,9.545963,78.593213,Moderate,3,Poor Road Condition
+A0513,2025-09-27,20:23,Clear,Potholes,Ramanathapuram Junction,9.366491,78.840154,Minor,2,Overtaking
+A0514,2025-06-07,23:58,Clear,Dry,Paramakudi Highway,9.546057,78.59018,Severe,1,Drunk Driving
+A0515,2025-05-29,22:02,Clear,Potholes,Market Road,9.36672,78.834666,Minor,2,Signal Violation
+A0516,2024-01-09,14:44,Clear,Dry,East Coast Road,9.299614,78.897497,Severe,2,Drunk Driving
+A0517,2024-08-30,08:16,Clear,Under Construction,Rameswaram Road,9.288599,79.312971,Minor,2,Poor Road Condition
+A0518,2025-01-08,18:23,Rainy,Dry,Bus Stand Junction,9.366775,78.836361,Moderate,2,Speeding
+A0519,2024-08-29,18:51,Cloudy,Potholes,Devipattinam Road,9.476161,78.865803,Moderate,3,Distracted Driving
+A0520,2025-03-07,19:11,Clear,Under Construction,Market Road,9.366137,78.837771,Moderate,2,Vehicle Failure
+A0521,2025-08-04,10:35,Clear,Dry,Market Road,9.368326,78.835512,Moderate,2,Speeding
+A0522,2024-09-23,14:21,Clear,Dry,Devipattinam Road,9.479618,78.867942,Minor,2,Overtaking
+A0523,2025-09-12,11:43,Clear,Dry,Devipattinam Road,9.477741,78.869325,Moderate,1,Poor Road Condition
+A0524,2025-05-14,11:32,Rainy,Dry,Madurai Road Junction,9.365978,78.807635,Severe,2,Weather
+A0525,2024-12-11,17:59,Clear,Wet,Paramakudi Highway,9.548215,78.59207,Minor,4,Distracted Driving
+A0526,2025-10-30,08:20,Clear,Dry,Madurai Road Junction,9.364062,78.810594,Minor,2,Poor Road Condition
+A0527,2025-04-06,18:33,Clear,Dry,Madurai Road Junction,9.365741,78.810391,Severe,3,Speeding
+A0528,2024-04-15,08:25,Clear,Under Construction,Devipattinam Road,9.477175,78.866993,Moderate,1,Poor Road Condition
+A0529,2024-04-16,19:05,Clear,Dry,East Coast Road,9.299962,78.901759,Minor,4,Poor Road Condition
+A0530,2025-10-03,18:28,Clear,Dry,Kilakarai Main Road,9.231815,78.784444,Moderate,1,Speeding
+A0531,2025-07-07,20:29,Windy,Dry,Madurai Road Junction,9.366158,78.805727,Moderate,4,Speeding
+A0532,2025-10-13,17:40,Foggy,Dry,Industrial Area Road,9.351723,78.82239,Severe,2,Weather
+A0533,2024-04-01,16:51,Clear,Dry,Market Road,9.365256,78.83452,Minor,2,Speeding
+A0534,2025-07-01,11:30,Clear,Under Construction,Paramakudi Highway,9.544058,78.591741,Minor,2,Overtaking
+A0535,2024-08-24,19:38,Rainy,Dry,Bus Stand Junction,9.366798,78.83452,Minor,2,Overtaking
+A0536,2024-09-26,20:14,Clear,Wet,Bus Stand Junction,9.36743,78.834716,Moderate,3,Distracted Driving
+A0537,2025-06-28,09:47,Rainy,Potholes,Rameswaram Road,9.288115,79.310076,Moderate,2,Distracted Driving
+A0538,2025-09-29,14:44,Clear,Dry,Industrial Area Road,9.351494,78.824259,Minor,5,Speeding
+A0539,2025-03-24,09:08,Cloudy,Dry,Devipattinam Road,9.475665,78.867358,Moderate,2,Speeding
+A0540,2025-01-15,19:31,Clear,Muddy,Rameswaram Road,9.290251,79.313275,Severe,3,Distracted Driving
+A0541,2024-03-14,09:25,Clear,Dry,Ramanathapuram Junction,9.363377,78.838976,Minor,2,Vehicle Failure
+A0542,2024-09-11,06:49,Clear,Under Construction,Ramanathapuram Junction,9.363418,78.842615,Minor,5,Distracted Driving
+A0543,2025-04-29,15:13,Clear,Under Construction,Devipattinam Road,9.478573,78.868645,Moderate,1,Overtaking
+A0544,2025-05-07,15:16,Cloudy,Dry,East Coast Road,9.301545,78.900358,Minor,4,Vehicle Failure
+A0545,2024-11-28,08:27,Clear,Muddy,Devipattinam Road,9.477611,78.867705,Moderate,2,Drunk Driving
+A0546,2025-05-01,16:44,Cloudy,Dry,Ramanathapuram Junction,9.363793,78.839444,Moderate,2,Signal Violation
+A0547,2025-10-02,11:48,Clear,Dry,Industrial Area Road,9.351091,78.825078,Minor,2,Speeding
+A0548,2025-10-22,08:35,Rainy,Wet,Market Road,9.366899,78.836079,Moderate,3,Speeding
+A0549,2025-05-11,09:02,Cloudy,Dry,Paramakudi Highway,9.546118,78.587003,Moderate,2,Drunk Driving
+A0550,2025-04-24,11:46,Clear,Potholes,East Coast Road,9.301374,78.90052,Minor,2,Overtaking
+A0551,2024-09-26,14:52,Clear,Dry,Paramakudi Highway,9.547497,78.585656,Moderate,2,Signal Violation
+A0552,2025-09-27,17:23,Clear,Wet,Ramanathapuram Junction,9.367033,78.839291,Minor,2,Poor Road Condition
+A0553,2025-07-18,18:49,Clear,Dry,East Coast Road,9.301662,78.89844,Minor,2,Distracted Driving
+A0554,2024-07-01,03:08,Foggy,Dry,Devipattinam Road,9.478919,78.86642,Moderate,1,Weather
+A0555,2025-09-30,17:33,Cloudy,Dry,Bus Stand Junction,9.366564,78.836871,Minor,2,Distracted Driving
+A0556,2024-03-22,17:59,Clear,Wet,Kilakarai Main Road,9.230714,78.785326,Severe,3,Distracted Driving
+A0557,2025-09-23,19:03,Clear,Dry,Madurai Road Junction,9.366305,78.810744,Fatal,2,Speeding
+A0558,2024-08-24,06:46,Clear,Dry,East Coast Road,9.300226,78.900547,Severe,2,Drunk Driving
+A0559,2025-03-01,16:35,Cloudy,Muddy,Paramakudi Highway,9.549605,78.589914,Severe,3,Drunk Driving
+A0560,2024-07-03,20:10,Clear,Dry,Bus Stand Junction,9.367802,78.835576,Moderate,2,Poor Road Condition
+A0561,2024-11-28,21:35,Rainy,Wet,Madurai Road Junction,9.366658,78.811781,Moderate,2,Vehicle Failure
+A0562,2025-07-17,08:49,Windy,Dry,East Coast Road,9.300958,78.898285,Minor,2,Overtaking
+A0563,2024-01-17,23:38,Clear,Under Construction,Ramanathapuram Junction,9.36635,78.83778,Minor,2,Poor Road Condition
+A0564,2025-12-07,01:52,Rainy,Wet,Madurai Road Junction,9.365454,78.808869,Minor,2,Weather
+A0565,2024-09-28,11:08,Clear,Dry,Market Road,9.365704,78.836693,Minor,3,Speeding
+A0566,2024-03-20,16:13,Cloudy,Muddy,Bus Stand Junction,9.367982,78.834633,Severe,3,Speeding
+A0567,2025-09-01,19:06,Cloudy,Dry,Industrial Area Road,9.352421,78.82568,Moderate,2,Signal Violation
+A0568,2025-03-20,11:52,Clear,Potholes,Madurai Road Junction,9.364634,78.811446,Moderate,2,Overtaking
+A0569,2025-10-09,21:40,Clear,Dry,Industrial Area Road,9.351784,78.823159,Minor,2,Speeding
+A0570,2024-02-21,18:09,Cloudy,Under Construction,East Coast Road,9.300896,78.901052,Moderate,3,Overtaking
+A0571,2025-02-07,08:18,Clear,Dry,Devipattinam Road,9.477554,78.870064,Moderate,3,Distracted Driving
+A0572,2025-03-20,05:32,Rainy,Dry,Rameswaram Road,9.287775,79.312188,Moderate,2,Weather
+A0573,2025-06-20,16:47,Clear,Dry,Kilakarai Main Road,9.23074,78.785023,Severe,2,Signal Violation
+A0574,2025-03-09,06:26,Clear,Dry,Devipattinam Road,9.476356,78.86584,Moderate,3,Distracted Driving
+A0575,2025-03-28,23:39,Cloudy,Dry,Paramakudi Highway,9.548392,78.58873,Moderate,2,Overtaking
+A0576,2024-03-28,19:54,Clear,Dry,Paramakudi Highway,9.544513,78.58677,Severe,4,Overtaking
+A0577,2024-04-23,01:44,Clear,Dry,Rameswaram Road,9.287042,79.310015,Minor,3,Distracted Driving
+A0578,2025-07-15,15:16,Clear,Wet,East Coast Road,9.302463,78.901515,Minor,3,Speeding
+A0579,2024-02-14,21:33,Clear,Dry,Industrial Area Road,9.348968,78.828379,Moderate,3,Speeding
+A0580,2024-03-09,17:00,Clear,Dry,Market Road,9.367273,78.835713,Severe,3,Signal Violation
+A0581,2025-10-26,10:56,Clear,Under Construction,Ramanathapuram Junction,9.360151,78.842936,Severe,3,Poor Road Condition
+A0582,2024-03-31,20:34,Clear,Dry,Market Road,9.363716,78.833732,Minor,4,Distracted Driving
+A0583,2024-12-07,21:19,Clear,Wet,Kilakarai Main Road,9.232534,78.78866,Severe,3,Speeding
+A0584,2024-10-09,08:32,Rainy,Potholes,Rameswaram Road,9.290076,79.312846,Minor,3,Overtaking
+A0585,2024-06-04,22:14,Clear,Dry,East Coast Road,9.300892,78.90128,Moderate,3,Speeding
+A0586,2024-08-20,20:43,Clear,Dry,Industrial Area Road,9.351138,78.825422,Moderate,2,Distracted Driving
+A0587,2025-10-30,16:13,Clear,Dry,Market Road,9.365956,78.836106,Minor,4,Signal Violation
+A0588,2024-05-28,21:27,Cloudy,Dry,East Coast Road,9.298869,78.899579,Moderate,1,Speeding
+A0589,2024-05-29,08:53,Cloudy,Muddy,Devipattinam Road,9.475461,78.867852,Minor,2,Vehicle Failure
+A0590,2025-10-14,18:52,Windy,Dry,Market Road,9.364317,78.834545,Minor,1,Vehicle Failure
+A0591,2025-08-03,17:38,Cloudy,Dry,Industrial Area Road,9.35027,78.827088,Minor,1,Speeding
+A0592,2025-09-11,07:54,Clear,Wet,Market Road,9.367177,78.833844,Moderate,2,Speeding
+A0593,2025-02-22,08:02,Rainy,Wet,Paramakudi Highway,9.544516,78.591411,Fatal,3,Poor Road Condition
+A0594,2025-03-25,05:59,Rainy,Wet,Kilakarai Main Road,9.229526,78.784663,Moderate,2,Weather
+A0595,2025-01-24,17:52,Cloudy,Dry,Ramanathapuram Junction,9.364725,78.838047,Moderate,2,Overtaking
+A0596,2025-04-12,15:28,Rainy,Under Construction,Ramanathapuram Junction,9.364058,78.837499,Moderate,2,Poor Road Condition
+A0597,2025-10-07,12:48,Windy,Dry,East Coast Road,9.299098,78.90048,Moderate,4,Poor Road Condition
+A0598,2024-10-28,14:27,Cloudy,Dry,Rameswaram Road,9.285611,79.312661,Moderate,1,Distracted Driving
+A0599,2024-04-25,06:32,Clear,Dry,Market Road,9.365771,78.837029,Minor,2,Vehicle Failure
+A0600,2025-04-09,14:11,Cloudy,Wet,Madurai Road Junction,9.365336,78.812046,Moderate,2,Speeding
+A0601,2024-04-03,18:07,Clear,Dry,Paramakudi Highway,9.546188,78.589356,Minor,2,Distracted Driving
+A0602,2025-01-22,17:10,Cloudy,Dry,East Coast Road,9.300183,78.900815,Severe,2,Speeding
+A0603,2024-07-02,07:09,Rainy,Wet,Paramakudi Highway,9.546073,78.590061,Moderate,5,Signal Violation
+A0604,2024-07-26,06:08,Clear,Muddy,Paramakudi Highway,9.544947,78.589006,Moderate,2,Speeding
+A0605,2024-08-31,17:31,Clear,Wet,Ramanathapuram Junction,9.361796,78.842124,Moderate,2,Distracted Driving
+A0606,2024-10-11,09:35,Cloudy,Dry,Ramanathapuram Junction,9.362034,78.838461,Minor,1,Signal Violation
+A0607,2024-02-03,02:54,Cloudy,Potholes,Madurai Road Junction,9.363922,78.811342,Minor,4,Drunk Driving
+A0608,2025-11-19,23:10,Clear,Wet,Bus Stand Junction,9.367058,78.835872,Moderate,2,Weather
+A0609,2024-02-06,18:23,Clear,Dry,Market Road,9.36479,78.836618,Minor,2,Distracted Driving
+A0610,2024-10-26,20:04,Clear,Dry,Bus Stand Junction,9.366247,78.837218,Minor,2,Signal Violation
+A0611,2024-02-29,18:39,Clear,Wet,Kilakarai Main Road,9.229219,78.785465,Moderate,5,Poor Road Condition
+A0612,2024-10-21,21:45,Clear,Potholes,Industrial Area Road,9.350951,78.825621,Fatal,2,Drunk Driving
+A0613,2025-06-16,17:31,Cloudy,Dry,Paramakudi Highway,9.545722,78.589805,Minor,4,Signal Violation
+A0614,2024-05-01,23:00,Clear,Wet,Rameswaram Road,9.288066,79.311779,Fatal,3,Speeding
+A0615,2024-12-24,13:21,Cloudy,Wet,Bus Stand Junction,9.368946,78.837316,Moderate,2,Speeding
+A0616,2025-07-17,10:32,Clear,Dry,Devipattinam Road,9.477164,78.865945,Moderate,2,Weather
+A0617,2024-06-28,22:53,Clear,Potholes,Industrial Area Road,9.349868,78.82887,Moderate,2,Overtaking
+A0618,2024-06-08,17:30,Cloudy,Potholes,Ramanathapuram Junction,9.362694,78.841959,Moderate,2,Poor Road Condition
+A0619,2025-06-17,21:03,Clear,Wet,Bus Stand Junction,9.370017,78.83317,Moderate,2,Distracted Driving
+A0620,2024-12-28,19:56,Clear,Dry,Madurai Road Junction,9.365853,78.812443,Minor,2,Signal Violation
+A0621,2025-09-12,20:36,Clear,Dry,East Coast Road,9.299431,78.899695,Moderate,3,Vehicle Failure
+A0622,2025-02-27,18:17,Clear,Potholes,Madurai Road Junction,9.364127,78.808478,Minor,3,Poor Road Condition
+A0623,2025-01-18,10:07,Rainy,Under Construction,East Coast Road,9.299026,78.898164,Moderate,1,Poor Road Condition
+A0624,2025-05-10,07:21,Cloudy,Dry,East Coast Road,9.300051,78.898845,Severe,1,Signal Violation
+A0625,2024-07-29,18:08,Cloudy,Dry,East Coast Road,9.300351,78.897666,Minor,2,Weather
+A0626,2024-03-30,18:38,Clear,Potholes,Ramanathapuram Junction,9.364396,78.84075,Severe,3,Speeding
+A0627,2025-10-16,16:19,Foggy,Dry,Ramanathapuram Junction,9.360909,78.840061,Moderate,2,Speeding
+A0628,2024-06-01,18:17,Clear,Dry,Market Road,9.367642,78.834386,Minor,2,Overtaking
+A0629,2024-10-04,11:20,Clear,Wet,East Coast Road,9.302509,78.900629,Minor,2,Speeding
+A0630,2025-03-30,21:34,Clear,Dry,Industrial Area Road,9.348942,78.824916,Minor,1,Vehicle Failure
+A0631,2025-12-22,13:11,Cloudy,Dry,Devipattinam Road,9.478837,78.868114,Moderate,3,Signal Violation
+A0632,2025-11-17,11:12,Rainy,Under Construction,Rameswaram Road,9.288808,79.310619,Minor,2,Signal Violation
+A0633,2025-12-01,06:19,Cloudy,Muddy,Market Road,9.366054,78.834079,Minor,4,Distracted Driving
+A0634,2025-02-05,09:23,Clear,Potholes,Industrial Area Road,9.349833,78.823644,Moderate,4,Poor Road Condition
+A0635,2024-04-25,02:30,Clear,Dry,Market Road,9.364697,78.838054,Severe,3,Speeding
+A0636,2024-04-19,15:25,Clear,Wet,Paramakudi Highway,9.547637,78.590914,Minor,2,Signal Violation
+A0637,2025-07-15,09:15,Clear,Dry,Bus Stand Junction,9.365862,78.833525,Severe,2,Speeding
+A0638,2025-08-03,19:27,Rainy,Wet,Bus Stand Junction,9.36932,78.834213,Severe,1,Weather
+A0639,2025-08-29,20:07,Cloudy,Dry,Industrial Area Road,9.353479,78.82559,Moderate,2,Speeding
+A0640,2025-12-02,05:06,Rainy,Wet,Bus Stand Junction,9.367788,78.833536,Minor,3,Weather
+A0641,2025-10-13,20:57,Rainy,Wet,Paramakudi Highway,9.5462,78.589771,Moderate,2,Weather
+A0642,2024-11-20,08:43,Clear,Muddy,Market Road,9.366862,78.837635,Fatal,4,Poor Road Condition
+A0643,2024-01-09,23:37,Cloudy,Dry,Madurai Road Junction,9.363821,78.808003,Minor,3,Signal Violation
+A0644,2025-12-21,22:00,Cloudy,Under Construction,East Coast Road,9.297246,78.900762,Minor,2,Speeding
+A0645,2025-10-02,18:25,Clear,Dry,Bus Stand Junction,9.365845,78.830771,Moderate,2,Distracted Driving
+A0646,2025-01-28,07:35,Rainy,Wet,Market Road,9.366383,78.839939,Minor,4,Distracted Driving
+A0647,2024-05-27,05:01,Cloudy,Dry,Ramanathapuram Junction,9.363891,78.840758,Minor,5,Distracted Driving
+A0648,2025-12-13,20:57,Cloudy,Dry,Bus Stand Junction,9.367623,78.833852,Moderate,2,Speeding
+A0649,2024-07-09,12:14,Clear,Dry,Market Road,9.367179,78.835765,Moderate,3,Distracted Driving
+A0650,2025-08-13,13:34,Clear,Under Construction,Rameswaram Road,9.288401,79.312483,Minor,3,Poor Road Condition
+A0651,2024-05-25,22:05,Cloudy,Dry,Market Road,9.364798,78.837688,Minor,3,Signal Violation
+A0652,2025-09-16,05:56,Clear,Dry,East Coast Road,9.299738,78.898866,Minor,5,Signal Violation
+A0653,2025-09-19,19:19,Clear,Dry,East Coast Road,9.300805,78.898652,Moderate,2,Signal Violation
+A0654,2025-03-07,16:21,Clear,Under Construction,Market Road,9.365842,78.836186,Severe,1,Drunk Driving
+A0655,2025-07-31,18:46,Clear,Wet,Industrial Area Road,9.351629,78.825712,Severe,2,Drunk Driving
+A0656,2024-01-28,19:39,Clear,Dry,Rameswaram Road,9.287962,79.313227,Minor,3,Distracted Driving
+A0657,2024-09-20,17:17,Clear,Dry,Paramakudi Highway,9.548085,78.590837,Moderate,2,Speeding
+A0658,2024-09-24,12:11,Rainy,Dry,Market Road,9.365816,78.834232,Fatal,1,Weather
+A0659,2024-06-06,17:52,Rainy,Wet,Paramakudi Highway,9.544402,78.589542,Moderate,3,Poor Road Condition
+A0660,2024-12-19,08:46,Clear,Dry,Paramakudi Highway,9.545086,78.58972,Moderate,1,Signal Violation
+A0661,2025-06-29,10:47,Clear,Wet,Market Road,9.365885,78.836995,Moderate,2,Distracted Driving
+A0662,2025-04-04,00:59,Clear,Dry,Bus Stand Junction,9.367394,78.83473,Moderate,4,Drunk Driving
+A0663,2025-03-18,17:54,Cloudy,Wet,East Coast Road,9.300097,78.897037,Severe,2,Speeding
+A0664,2025-04-17,17:25,Rainy,Muddy,Rameswaram Road,9.286591,79.311784,Minor,2,Weather
+A0665,2025-11-19,10:00,Clear,Dry,Paramakudi Highway,9.544185,78.5909,Moderate,2,Distracted Driving
+A0666,2024-09-14,08:18,Clear,Dry,Madurai Road Junction,9.367296,78.811828,Severe,4,Speeding
+A0667,2024-05-04,22:40,Cloudy,Dry,Kilakarai Main Road,9.23068,78.787236,Moderate,1,Signal Violation
+A0668,2024-04-23,19:11,Cloudy,Dry,Industrial Area Road,9.350223,78.824494,Moderate,4,Distracted Driving
+A0669,2025-11-14,19:44,Rainy,Dry,Rameswaram Road,9.28708,79.311546,Moderate,3,Speeding
+A0670,2024-09-28,23:16,Clear,Dry,Madurai Road Junction,9.364418,78.810256,Minor,2,Overtaking
+A0671,2025-03-17,06:34,Clear,Wet,Market Road,9.366041,78.836205,Minor,3,Vehicle Failure
+A0672,2024-09-13,05:46,Rainy,Wet,Devipattinam Road,9.478655,78.869786,Minor,1,Weather
+A0673,2024-12-03,09:44,Foggy,Dry,Bus Stand Junction,9.368924,78.831773,Moderate,4,Weather
+A0674,2024-03-12,13:46,Clear,Dry,Bus Stand Junction,9.363669,78.835401,Moderate,3,Overtaking
+A0675,2024-12-07,16:22,Cloudy,Dry,Industrial Area Road,9.34795,78.824663,Minor,4,Poor Road Condition
+A0676,2024-03-23,20:21,Rainy,Wet,East Coast Road,9.298245,78.897297,Severe,2,Distracted Driving
+A0677,2024-04-19,10:24,Cloudy,Dry,Kilakarai Main Road,9.231812,78.786139,Severe,3,Speeding
+A0678,2025-08-30,02:01,Clear,Dry,Paramakudi Highway,9.545135,78.586113,Moderate,3,Signal Violation
+A0679,2024-02-07,22:01,Clear,Dry,Market Road,9.364981,78.836788,Minor,2,Weather
+A0680,2025-07-03,14:43,Clear,Dry,East Coast Road,9.297782,78.900275,Minor,1,Overtaking
+A0681,2025-09-25,14:58,Clear,Wet,Ramanathapuram Junction,9.363877,78.840369,Minor,1,Speeding
+A0682,2025-04-12,19:06,Cloudy,Potholes,Rameswaram Road,9.288179,79.31054,Minor,3,Speeding
+A0683,2024-03-05,19:14,Rainy,Potholes,Industrial Area Road,9.351795,78.824762,Minor,3,Overtaking
+A0684,2024-08-06,16:20,Rainy,Wet,Industrial Area Road,9.349959,78.8236,Moderate,1,Speeding
+A0685,2024-09-06,16:28,Windy,Dry,Madurai Road Junction,9.364335,78.808673,Severe,3,Speeding
+A0686,2024-03-23,01:31,Clear,Dry,Paramakudi Highway,9.545741,78.592568,Severe,3,Speeding
+A0687,2025-05-02,18:50,Cloudy,Dry,Bus Stand Junction,9.365442,78.83158,Minor,2,Poor Road Condition
+A0688,2025-09-02,17:02,Clear,Dry,Paramakudi Highway,9.548207,78.589686,Moderate,2,Overtaking
+A0689,2024-08-29,13:35,Clear,Under Construction,Madurai Road Junction,9.363996,78.81156,Severe,2,Overtaking
+A0690,2025-10-03,15:29,Cloudy,Dry,East Coast Road,9.299092,78.902739,Severe,3,Speeding
+A0691,2025-11-17,15:10,Windy,Dry,Market Road,9.366817,78.835468,Minor,2,Poor Road Condition
+A0692,2025-04-09,19:48,Clear,Wet,Industrial Area Road,9.353236,78.824091,Moderate,1,Overtaking
+A0693,2024-08-28,15:04,Cloudy,Dry,Market Road,9.366913,78.836649,Moderate,2,Distracted Driving
+A0694,2024-11-29,08:07,Clear,Dry,Madurai Road Junction,9.366953,78.812342,Severe,2,Distracted Driving
+A0695,2024-02-25,14:31,Foggy,Dry,Devipattinam Road,9.478048,78.86687,Minor,2,Overtaking
+A0696,2025-10-09,14:12,Clear,Dry,Paramakudi Highway,9.54669,78.588983,Moderate,1,Distracted Driving
+A0697,2025-04-21,07:54,Clear,Dry,Rameswaram Road,9.29102,79.312205,Moderate,4,Distracted Driving
+A0698,2025-07-20,21:36,Rainy,Potholes,Industrial Area Road,9.349452,78.825277,Moderate,5,Poor Road Condition
+A0699,2025-03-14,09:46,Cloudy,Dry,Market Road,9.363779,78.834743,Severe,2,Distracted Driving
+A0700,2025-08-10,22:58,Foggy,Dry,Industrial Area Road,9.351801,78.824015,Fatal,5,Speeding
+A0701,2025-02-07,02:33,Clear,Muddy,East Coast Road,9.29843,78.900805,Moderate,2,Signal Violation
+A0702,2025-02-20,19:44,Windy,Dry,East Coast Road,9.301779,78.901078,Minor,3,Distracted Driving
+A0703,2025-12-21,18:10,Clear,Dry,Market Road,9.367294,78.835065,Moderate,5,Drunk Driving
+A0704,2024-07-08,20:25,Rainy,Wet,Paramakudi Highway,9.543867,78.592252,Minor,4,Weather
+A0705,2025-03-12,16:18,Rainy,Wet,Madurai Road Junction,9.364516,78.809624,Moderate,2,Weather
+A0706,2024-02-26,20:47,Clear,Potholes,Industrial Area Road,9.351992,78.825834,Minor,1,Poor Road Condition
+A0707,2025-01-10,17:23,Clear,Dry,Market Road,9.366484,78.839448,Moderate,3,Speeding
+A0708,2025-10-26,09:07,Clear,Under Construction,Madurai Road Junction,9.364035,78.811392,Minor,4,Poor Road Condition
+A0709,2024-09-30,10:57,Clear,Dry,Kilakarai Main Road,9.231086,78.785403,Moderate,2,Speeding
+A0710,2025-04-26,16:07,Cloudy,Wet,East Coast Road,9.302293,78.900762,Severe,2,Drunk Driving
+A0711,2025-04-13,08:56,Clear,Dry,Devipattinam Road,9.478807,78.869609,Minor,4,Speeding
+A0712,2024-05-31,09:44,Clear,Potholes,Paramakudi Highway,9.545453,78.588741,Minor,2,Poor Road Condition
+A0713,2024-12-21,21:30,Clear,Wet,East Coast Road,9.298433,78.89705,Minor,2,Speeding
+A0714,2025-10-22,20:33,Clear,Dry,Kilakarai Main Road,9.234084,78.783345,Moderate,3,Poor Road Condition
+A0715,2025-04-13,20:28,Clear,Dry,East Coast Road,9.299668,78.899585,Minor,1,Signal Violation
+A0716,2024-02-18,12:18,Clear,Dry,Market Road,9.366261,78.837424,Minor,2,Overtaking
+A0717,2025-12-26,09:11,Cloudy,Wet,East Coast Road,9.301291,78.899125,Minor,2,Speeding
+A0718,2024-09-23,16:28,Clear,Dry,Madurai Road Junction,9.364749,78.810424,Severe,3,Weather
+A0719,2024-06-15,12:34,Clear,Dry,Paramakudi Highway,9.545627,78.592411,Severe,4,Speeding
+A0720,2024-01-05,21:09,Windy,Dry,Market Road,9.366536,78.837302,Minor,3,Weather
+A0721,2025-08-10,22:48,Cloudy,Muddy,Rameswaram Road,9.288994,79.31376,Moderate,4,Weather
+A0722,2024-02-11,18:57,Clear,Dry,Devipattinam Road,9.478272,78.866055,Moderate,2,Distracted Driving
+A0723,2024-02-26,11:20,Cloudy,Dry,Market Road,9.3664,78.835223,Severe,3,Drunk Driving
+A0724,2025-04-01,01:34,Cloudy,Under Construction,Kilakarai Main Road,9.230207,78.78588,Moderate,2,Overtaking
+A0725,2025-11-13,17:03,Clear,Dry,Industrial Area Road,9.351857,78.825032,Minor,2,Signal Violation
+A0726,2025-04-01,11:19,Foggy,Dry,Rameswaram Road,9.288463,79.314553,Fatal,2,Signal Violation
+A0727,2025-03-10,10:51,Cloudy,Dry,Market Road,9.366161,78.840103,Minor,2,Signal Violation
+A0728,2025-06-21,14:55,Windy,Dry,Rameswaram Road,9.288848,79.309359,Minor,3,Overtaking
+A0729,2025-02-28,17:17,Clear,Dry,Bus Stand Junction,9.36863,78.834572,Moderate,4,Drunk Driving
+A0730,2024-02-13,10:31,Rainy,Wet,Bus Stand Junction,9.369435,78.83501,Minor,3,Weather
+A0731,2025-10-17,07:19,Rainy,Wet,Ramanathapuram Junction,9.363692,78.837664,Moderate,2,Overtaking
+A0732,2024-10-10,02:48,Clear,Under Construction,Kilakarai Main Road,9.230686,78.783724,Moderate,2,Poor Road Condition
+A0733,2025-12-03,20:40,Clear,Wet,Bus Stand Junction,9.366629,78.834883,Moderate,2,Speeding
+A0734,2024-05-29,07:03,Clear,Potholes,Rameswaram Road,9.290505,79.312592,Moderate,1,Speeding
+A0735,2024-02-19,17:22,Clear,Dry,Bus Stand Junction,9.365706,78.834667,Moderate,2,Overtaking
+A0736,2024-06-20,19:38,Clear,Potholes,Paramakudi Highway,9.547795,78.589085,Minor,3,Vehicle Failure
+A0737,2024-12-26,06:37,Rainy,Wet,Madurai Road Junction,9.364799,78.810022,Minor,2,Poor Road Condition
+A0738,2025-05-30,06:09,Clear,Dry,Paramakudi Highway,9.544823,78.590972,Moderate,2,Vehicle Failure
+A0739,2025-07-18,20:45,Cloudy,Potholes,East Coast Road,9.299819,78.900629,Minor,4,Poor Road Condition
+A0740,2024-12-22,21:30,Clear,Dry,Paramakudi Highway,9.544669,78.589344,Moderate,4,Signal Violation
+A0741,2024-01-30,07:19,Cloudy,Dry,Madurai Road Junction,9.366084,78.809441,Severe,3,Speeding
+A0742,2024-03-21,07:08,Clear,Muddy,Rameswaram Road,9.29059,79.311401,Moderate,1,Speeding
+A0743,2024-02-03,03:06,Rainy,Dry,Bus Stand Junction,9.367837,78.835399,Minor,2,Speeding
+A0744,2024-05-06,19:50,Windy,Dry,Ramanathapuram Junction,9.361772,78.836859,Minor,2,Overtaking
+A0745,2024-10-11,07:47,Windy,Dry,Devipattinam Road,9.475712,78.869894,Severe,2,Speeding
+A0746,2024-04-11,15:04,Rainy,Wet,Kilakarai Main Road,9.230172,78.788837,Moderate,5,Signal Violation
+A0747,2024-04-11,00:46,Windy,Under Construction,East Coast Road,9.299154,78.900277,Moderate,2,Vehicle Failure
+A0748,2024-07-04,14:06,Rainy,Wet,Paramakudi Highway,9.548313,78.593009,Moderate,2,Weather
+A0749,2025-06-16,06:07,Clear,Muddy,Madurai Road Junction,9.368092,78.811813,Minor,2,Weather
+A0750,2024-10-17,15:24,Clear,Wet,Madurai Road Junction,9.366536,78.810889,Minor,3,Weather
+A0751,2025-03-14,10:54,Clear,Dry,Bus Stand Junction,9.368668,78.833173,Moderate,2,Signal Violation
+A0752,2025-05-18,01:43,Cloudy,Dry,Paramakudi Highway,9.544773,78.589995,Minor,3,Drunk Driving
+A0753,2024-04-14,13:37,Cloudy,Potholes,Bus Stand Junction,9.367245,78.83332,Minor,2,Distracted Driving
+A0754,2024-05-05,17:25,Clear,Dry,Kilakarai Main Road,9.232045,78.786433,Moderate,3,Distracted Driving
+A0755,2025-10-21,09:50,Windy,Dry,Industrial Area Road,9.350133,78.827216,Fatal,4,Weather
+A0756,2025-04-10,09:49,Clear,Dry,East Coast Road,9.298287,78.89971,Minor,2,Distracted Driving
+A0757,2024-03-10,18:53,Clear,Dry,Devipattinam Road,9.476925,78.8652,Moderate,2,Speeding
+A0758,2024-03-19,17:06,Cloudy,Dry,Rameswaram Road,9.287876,79.311817,Minor,2,Distracted Driving
+A0759,2025-07-09,15:16,Clear,Potholes,Market Road,9.36807,78.837146,Minor,4,Poor Road Condition
+A0760,2025-01-27,20:07,Clear,Potholes,Bus Stand Junction,9.365964,78.836781,Minor,1,Poor Road Condition
+A0761,2025-05-18,20:10,Clear,Dry,Rameswaram Road,9.289832,79.312873,Moderate,3,Distracted Driving
+A0762,2025-07-06,17:43,Cloudy,Dry,Market Road,9.36546,78.834761,Minor,2,Signal Violation
+A0763,2025-09-23,17:24,Cloudy,Muddy,Market Road,9.365242,78.837833,Moderate,1,Speeding
+A0764,2025-08-20,20:22,Clear,Potholes,Paramakudi Highway,9.548827,78.592315,Minor,1,Poor Road Condition
+A0765,2025-11-08,13:03,Clear,Dry,Madurai Road Junction,9.364267,78.808321,Moderate,1,Distracted Driving
+A0766,2024-01-21,06:10,Clear,Dry,Rameswaram Road,9.288211,79.309347,Moderate,2,Poor Road Condition
+A0767,2025-04-25,09:44,Cloudy,Under Construction,Bus Stand Junction,9.367985,78.833779,Moderate,2,Poor Road Condition
+A0768,2024-07-29,06:43,Clear,Dry,Market Road,9.365101,78.833808,Moderate,2,Signal Violation
+A0769,2025-05-23,22:12,Cloudy,Under Construction,Madurai Road Junction,9.36577,78.809201,Moderate,3,Speeding
+A0770,2025-02-15,03:36,Rainy,Under Construction,Rameswaram Road,9.286245,79.307692,Moderate,2,Signal Violation
+A0771,2025-06-27,05:51,Clear,Dry,Rameswaram Road,9.287959,79.314658,Minor,3,Signal Violation
+A0772,2024-11-16,13:34,Clear,Dry,Rameswaram Road,9.290492,79.311314,Moderate,2,Poor Road Condition
+A0773,2025-12-21,20:40,Clear,Dry,Paramakudi Highway,9.545097,78.590703,Moderate,3,Distracted Driving
+A0774,2025-06-29,09:40,Rainy,Under Construction,Market Road,9.364302,78.836653,Minor,3,Overtaking
+A0775,2024-09-03,12:09,Clear,Wet,Kilakarai Main Road,9.232149,78.78684,Minor,2,Distracted Driving
+A0776,2025-02-26,17:54,Clear,Dry,Devipattinam Road,9.47785,78.867694,Moderate,3,Speeding
+A0777,2024-01-29,06:12,Clear,Potholes,Kilakarai Main Road,9.229683,78.78376,Minor,2,Poor Road Condition
+A0778,2024-05-19,08:17,Clear,Muddy,Ramanathapuram Junction,9.36356,78.840051,Severe,2,Speeding
+A0779,2024-01-21,22:31,Clear,Potholes,Ramanathapuram Junction,9.36527,78.838295,Minor,2,Poor Road Condition
+A0780,2025-11-04,21:42,Foggy,Dry,Bus Stand Junction,9.369739,78.833593,Minor,3,Vehicle Failure
+A0781,2024-05-03,18:59,Clear,Potholes,Industrial Area Road,9.349968,78.823879,Moderate,4,Overtaking
+A0782,2024-11-16,09:07,Clear,Dry,Devipattinam Road,9.474364,78.869326,Minor,3,Distracted Driving
+A0783,2024-06-28,08:06,Clear,Dry,Bus Stand Junction,9.368605,78.833578,Minor,4,Distracted Driving
+A0784,2024-11-20,12:07,Clear,Dry,East Coast Road,9.3001,78.900774,Severe,2,Speeding
+A0785,2025-01-11,12:45,Rainy,Under Construction,Paramakudi Highway,9.543656,78.589206,Moderate,3,Poor Road Condition
+A0786,2025-11-18,18:50,Clear,Dry,Ramanathapuram Junction,9.365091,78.837619,Minor,4,Distracted Driving
+A0787,2025-03-29,16:15,Clear,Potholes,Devipattinam Road,9.47844,78.865965,Moderate,5,Poor Road Condition
+A0788,2024-08-29,21:48,Clear,Potholes,Devipattinam Road,9.4787,78.867947,Moderate,2,Distracted Driving
+A0789,2024-03-23,19:17,Rainy,Wet,Bus Stand Junction,9.365077,78.835747,Moderate,3,Poor Road Condition
+A0790,2024-09-24,19:44,Clear,Dry,Devipattinam Road,9.476898,78.866785,Moderate,3,Poor Road Condition
+A0791,2024-02-23,18:48,Cloudy,Dry,Market Road,9.366101,78.837923,Minor,3,Distracted Driving
+A0792,2025-08-12,17:20,Clear,Dry,Kilakarai Main Road,9.229476,78.785093,Moderate,5,Distracted Driving
+A0793,2025-02-24,20:43,Rainy,Wet,Paramakudi Highway,9.546643,78.59104,Moderate,2,Signal Violation
+A0794,2024-03-27,19:12,Clear,Dry,Madurai Road Junction,9.365265,78.809449,Severe,4,Vehicle Failure
+A0795,2025-07-25,01:01,Cloudy,Wet,Kilakarai Main Road,9.229759,78.785129,Moderate,5,Vehicle Failure
+A0796,2025-03-15,03:39,Cloudy,Dry,Paramakudi Highway,9.544392,78.585618,Moderate,1,Overtaking
+A0797,2025-04-09,18:27,Rainy,Wet,Ramanathapuram Junction,9.364555,78.840856,Severe,4,Distracted Driving
+A0798,2025-01-26,10:31,Clear,Potholes,Rameswaram Road,9.284456,79.310485,Moderate,5,Poor Road Condition
+A0799,2024-05-29,13:26,Clear,Under Construction,Kilakarai Main Road,9.231929,78.788086,Minor,2,Distracted Driving
+A0800,2024-03-28,18:29,Clear,Dry,Industrial Area Road,9.350031,78.823908,Moderate,3,Distracted Driving
+A0801,2025-09-03,18:47,Clear,Dry,Bus Stand Junction,9.367226,78.836062,Moderate,2,Speeding
+A0802,2025-09-04,23:42,Cloudy,Potholes,Madurai Road Junction,9.364031,78.808801,Severe,2,Speeding
+A0803,2025-07-26,18:08,Clear,Dry,Bus Stand Junction,9.366776,78.83257,Moderate,2,Speeding
+A0804,2025-12-28,07:20,Clear,Dry,Market Road,9.365984,78.838637,Minor,1,Speeding
+A0805,2025-03-16,18:59,Clear,Potholes,Rameswaram Road,9.288485,79.311621,Minor,3,Poor Road Condition
+A0806,2024-11-19,13:10,Cloudy,Dry,Madurai Road Junction,9.364562,78.807655,Severe,2,Overtaking
+A0807,2024-02-25,04:09,Clear,Dry,Market Road,9.367125,78.836083,Moderate,3,Speeding
+A0808,2025-12-27,03:22,Cloudy,Dry,Market Road,9.365529,78.84099,Minor,3,Speeding
+A0809,2024-10-17,06:55,Clear,Dry,Madurai Road Junction,9.365448,78.808872,Severe,2,Distracted Driving
+A0810,2025-06-22,08:00,Rainy,Under Construction,Industrial Area Road,9.34936,78.826723,Minor,2,Distracted Driving
+A0811,2025-11-27,02:43,Clear,Dry,Madurai Road Junction,9.36517,78.807843,Minor,1,Overtaking
+A0812,2025-12-25,05:53,Cloudy,Dry,Ramanathapuram Junction,9.365279,78.838498,Minor,2,Overtaking
+A0813,2024-11-28,17:28,Windy,Under Construction,Ramanathapuram Junction,9.36671,78.84112,Minor,3,Overtaking
+A0814,2024-11-26,19:18,Rainy,Wet,Ramanathapuram Junction,9.363229,78.841422,Minor,1,Weather
+A0815,2025-02-12,22:55,Clear,Potholes,Kilakarai Main Road,9.231102,78.786279,Moderate,3,Distracted Driving
+A0816,2025-03-18,06:31,Cloudy,Under Construction,Paramakudi Highway,9.546727,78.58873,Minor,2,Overtaking
+A0817,2024-07-23,20:32,Clear,Potholes,Devipattinam Road,9.477035,78.869545,Minor,2,Poor Road Condition
+A0818,2024-07-09,19:39,Clear,Dry,Bus Stand Junction,9.366998,78.833395,Moderate,2,Speeding
+A0819,2024-06-07,17:45,Windy,Dry,Kilakarai Main Road,9.229567,78.785635,Moderate,1,Weather
+A0820,2024-11-03,21:30,Clear,Dry,Devipattinam Road,9.481094,78.866399,Moderate,3,Vehicle Failure
+A0821,2024-03-19,16:35,Foggy,Dry,Rameswaram Road,9.288036,79.314118,Moderate,2,Weather
+A0822,2024-09-17,19:22,Cloudy,Muddy,Industrial Area Road,9.349881,78.825679,Moderate,3,Speeding
+A0823,2024-03-26,20:02,Clear,Wet,Paramakudi Highway,9.544406,78.590642,Moderate,3,Distracted Driving
+A0824,2024-12-15,17:16,Windy,Potholes,Market Road,9.365519,78.837679,Moderate,2,Distracted Driving
+A0825,2024-04-18,09:43,Clear,Dry,Industrial Area Road,9.351781,78.828884,Moderate,1,Distracted Driving
+A0826,2025-11-04,18:55,Windy,Wet,Market Road,9.366669,78.836689,Severe,2,Weather
+A0827,2025-11-22,18:44,Clear,Dry,Madurai Road Junction,9.365292,78.80947,Minor,1,Speeding
+A0828,2024-01-28,18:12,Clear,Wet,Ramanathapuram Junction,9.364408,78.839057,Moderate,2,Poor Road Condition
+A0829,2025-04-19,08:19,Clear,Dry,East Coast Road,9.300253,78.901976,Severe,4,Speeding
+A0830,2024-01-21,22:30,Rainy,Wet,Market Road,9.36429,78.83791,Minor,3,Weather
+A0831,2025-03-18,06:54,Windy,Potholes,Ramanathapuram Junction,9.365876,78.839323,Moderate,2,Signal Violation
+A0832,2025-05-12,02:25,Clear,Wet,Rameswaram Road,9.284817,79.311088,Severe,4,Overtaking
+A0833,2024-01-20,18:33,Clear,Dry,Kilakarai Main Road,9.232945,78.784966,Moderate,4,Speeding
+A0834,2025-10-23,06:39,Clear,Wet,Market Road,9.364301,78.835443,Moderate,2,Speeding
+A0835,2024-08-12,14:32,Cloudy,Wet,Madurai Road Junction,9.366261,78.81082,Moderate,3,Overtaking
+A0836,2025-12-29,07:18,Clear,Dry,Market Road,9.365442,78.83565,Minor,3,Overtaking
+A0837,2024-06-14,19:54,Cloudy,Dry,Market Road,9.365212,78.834816,Minor,3,Signal Violation
+A0838,2024-04-13,07:31,Rainy,Wet,Kilakarai Main Road,9.233423,78.784517,Fatal,2,Distracted Driving
+A0839,2025-11-24,20:22,Clear,Potholes,Madurai Road Junction,9.366826,78.812282,Minor,1,Overtaking
+A0840,2024-05-03,06:14,Cloudy,Dry,Bus Stand Junction,9.368997,78.833353,Moderate,3,Overtaking
+A0841,2025-12-07,09:09,Foggy,Wet,East Coast Road,9.300606,78.899964,Fatal,1,Speeding
+A0842,2024-04-23,22:48,Windy,Muddy,Market Road,9.364444,78.836687,Minor,3,Weather
+A0843,2024-06-20,03:06,Cloudy,Potholes,East Coast Road,9.298231,78.901782,Moderate,1,Overtaking
+A0844,2024-04-11,19:31,Clear,Dry,Market Road,9.365103,78.836502,Minor,1,Signal Violation
+A0845,2024-09-08,19:00,Rainy,Wet,Bus Stand Junction,9.367925,78.833612,Severe,2,Speeding
+A0846,2024-09-08,11:42,Clear,Muddy,Bus Stand Junction,9.36838,78.833288,Moderate,2,Distracted Driving
+A0847,2025-04-14,21:57,Windy,Dry,Bus Stand Junction,9.368807,78.831981,Moderate,4,Weather
+A0848,2024-03-12,18:33,Clear,Dry,Ramanathapuram Junction,9.36409,78.842408,Minor,1,Overtaking
+A0849,2024-06-03,17:41,Foggy,Dry,Ramanathapuram Junction,9.3624,78.838483,Moderate,3,Weather
+A0850,2025-02-15,22:26,Foggy,Wet,East Coast Road,9.300771,78.900269,Moderate,3,Overtaking
+A0851,2025-06-24,00:17,Cloudy,Dry,Madurai Road Junction,9.365526,78.810734,Severe,3,Distracted Driving
+A0852,2025-03-28,19:41,Cloudy,Potholes,Industrial Area Road,9.350952,78.826665,Minor,2,Vehicle Failure
+A0853,2024-12-08,05:34,Clear,Wet,Rameswaram Road,9.288615,79.311638,Moderate,2,Vehicle Failure
+A0854,2024-11-15,06:35,Clear,Muddy,Kilakarai Main Road,9.232009,78.78785,Severe,1,Speeding
+A0855,2024-11-07,09:53,Cloudy,Under Construction,Industrial Area Road,9.349801,78.823538,Moderate,1,Speeding
+A0856,2025-10-28,11:03,Windy,Dry,East Coast Road,9.301661,78.899819,Minor,1,Weather
+A0857,2025-08-02,19:37,Cloudy,Under Construction,Kilakarai Main Road,9.227741,78.786271,Minor,3,Weather
+A0858,2025-08-09,09:50,Cloudy,Wet,Rameswaram Road,9.287197,79.311864,Minor,2,Distracted Driving
+A0859,2025-01-04,08:49,Clear,Dry,Industrial Area Road,9.350498,78.825286,Minor,2,Distracted Driving
+A0860,2024-08-07,21:30,Clear,Dry,Bus Stand Junction,9.368564,78.833347,Moderate,2,Drunk Driving
+A0861,2025-05-25,20:37,Cloudy,Under Construction,Bus Stand Junction,9.36827,78.833611,Moderate,4,Weather
+A0862,2025-06-01,19:09,Clear,Wet,Bus Stand Junction,9.368608,78.834923,Severe,3,Speeding
+A0863,2025-04-29,18:29,Clear,Dry,Devipattinam Road,9.476597,78.869629,Minor,4,Drunk Driving
+A0864,2025-08-08,06:23,Clear,Dry,Bus Stand Junction,9.366696,78.835212,Moderate,2,Speeding
+A0865,2024-05-26,15:50,Clear,Dry,Rameswaram Road,9.288551,79.314757,Severe,4,Speeding
+A0866,2025-05-15,08:47,Clear,Dry,Kilakarai Main Road,9.230665,78.784476,Moderate,1,Speeding
+A0867,2024-12-11,16:57,Rainy,Muddy,Rameswaram Road,9.287971,79.311545,Moderate,3,Weather
+A0868,2025-04-04,19:42,Clear,Wet,Market Road,9.367,78.833776,Severe,2,Speeding
+A0869,2024-12-13,08:25,Clear,Under Construction,Bus Stand Junction,9.365919,78.832398,Moderate,3,Overtaking
+A0870,2025-10-07,18:36,Rainy,Wet,Paramakudi Highway,9.547425,78.592566,Moderate,2,Speeding
+A0871,2024-02-24,16:48,Windy,Dry,Industrial Area Road,9.349843,78.824747,Minor,2,Signal Violation
+A0872,2024-10-08,08:01,Rainy,Muddy,East Coast Road,9.300105,78.901743,Moderate,2,Overtaking
+A0873,2024-02-16,10:37,Clear,Under Construction,Industrial Area Road,9.348609,78.825358,Minor,2,Poor Road Condition
+A0874,2024-04-03,10:16,Clear,Dry,East Coast Road,9.301463,78.900752,Moderate,1,Speeding
+A0875,2025-11-25,07:26,Clear,Wet,Devipattinam Road,9.478284,78.869502,Minor,1,Distracted Driving
+A0876,2025-02-26,06:09,Foggy,Dry,Bus Stand Junction,9.363445,78.835017,Minor,4,Overtaking
+A0877,2024-08-30,19:37,Clear,Muddy,Kilakarai Main Road,9.230019,78.782254,Minor,1,Distracted Driving
+A0878,2025-05-10,16:04,Clear,Wet,Market Road,9.366567,78.83826,Moderate,1,Vehicle Failure
+A0879,2025-07-22,18:15,Cloudy,Dry,Industrial Area Road,9.349794,78.826429,Severe,2,Drunk Driving
+A0880,2025-01-17,08:09,Clear,Dry,East Coast Road,9.302418,78.901972,Fatal,4,Speeding
+A0881,2025-04-20,14:00,Windy,Wet,East Coast Road,9.30246,78.901113,Minor,1,Weather
+A0882,2025-11-27,09:16,Clear,Dry,Market Road,9.365913,78.833797,Moderate,2,Poor Road Condition
+A0883,2025-07-30,07:34,Clear,Dry,Ramanathapuram Junction,9.363531,78.838235,Moderate,3,Weather
+A0884,2025-09-17,20:13,Clear,Potholes,Rameswaram Road,9.291256,79.311736,Severe,4,Overtaking
+A0885,2024-11-25,09:42,Clear,Dry,Market Road,9.365985,78.837027,Severe,1,Drunk Driving
+A0886,2024-01-10,17:00,Cloudy,Dry,Ramanathapuram Junction,9.363965,78.842043,Moderate,3,Vehicle Failure
+A0887,2025-10-26,05:56,Cloudy,Dry,East Coast Road,9.299066,78.900292,Minor,3,Vehicle Failure
+A0888,2025-01-20,11:52,Rainy,Dry,Devipattinam Road,9.476886,78.86602,Minor,3,Signal Violation
+A0889,2025-03-31,12:12,Clear,Wet,Market Road,9.364882,78.836144,Moderate,3,Signal Violation
+A0890,2025-10-02,06:39,Clear,Wet,Kilakarai Main Road,9.230356,78.783961,Moderate,2,Speeding
+A0891,2025-12-24,15:45,Cloudy,Dry,Rameswaram Road,9.285891,79.311875,Minor,3,Overtaking
+A0892,2024-06-23,16:31,Cloudy,Wet,Rameswaram Road,9.285743,79.31314,Moderate,3,Drunk Driving
+A0893,2024-03-07,17:47,Clear,Under Construction,Devipattinam Road,9.478124,78.865814,Moderate,4,Vehicle Failure
+A0894,2024-01-24,08:43,Windy,Wet,Rameswaram Road,9.287536,79.310872,Moderate,2,Weather
+A0895,2025-10-18,00:27,Cloudy,Wet,Market Road,9.366279,78.838211,Severe,2,Signal Violation
+A0896,2025-06-14,09:43,Clear,Dry,Bus Stand Junction,9.364687,78.834173,Minor,4,Signal Violation
+A0897,2025-04-04,21:34,Clear,Dry,Rameswaram Road,9.28776,79.313007,Severe,4,Distracted Driving
+A0898,2024-03-17,23:27,Foggy,Dry,Kilakarai Main Road,9.23132,78.783872,Severe,1,Drunk Driving
+A0899,2024-01-25,15:51,Cloudy,Wet,Ramanathapuram Junction,9.363421,78.838306,Minor,2,Distracted Driving
+A0900,2024-02-25,22:53,Rainy,Wet,Kilakarai Main Road,9.232614,78.785032,Severe,2,Speeding
+A0901,2024-05-07,17:37,Clear,Dry,Devipattinam Road,9.480852,78.867909,Severe,2,Speeding
+A0902,2025-03-28,19:03,Clear,Wet,Devipattinam Road,9.476937,78.865729,Minor,1,Distracted Driving
+A0903,2025-02-15,10:24,Clear,Muddy,Ramanathapuram Junction,9.361195,78.837124,Severe,2,Speeding
+A0904,2025-03-14,14:29,Foggy,Wet,Ramanathapuram Junction,9.364301,78.840263,Fatal,4,Drunk Driving
+A0905,2024-07-16,15:37,Clear,Dry,Market Road,9.363428,78.837543,Moderate,2,Weather
+A0906,2024-09-19,07:32,Clear,Dry,Industrial Area Road,9.349275,78.82522,Minor,2,Poor Road Condition
+A0907,2025-08-21,04:19,Clear,Under Construction,Ramanathapuram Junction,9.366318,78.840845,Severe,2,Signal Violation
+A0908,2025-09-09,07:19,Clear,Dry,Paramakudi Highway,9.545597,78.588663,Severe,2,Speeding
+A0909,2025-07-26,08:52,Rainy,Dry,Ramanathapuram Junction,9.360672,78.838421,Moderate,4,Distracted Driving
+A0910,2025-12-12,08:30,Cloudy,Dry,Madurai Road Junction,9.364683,78.808519,Moderate,3,Weather
+A0911,2024-12-02,17:26,Clear,Dry,Madurai Road Junction,9.364803,78.810115,Minor,1,Signal Violation
+A0912,2024-08-23,17:44,Clear,Dry,Ramanathapuram Junction,9.363563,78.838525,Moderate,3,Distracted Driving
+A0913,2024-01-07,08:11,Clear,Dry,Bus Stand Junction,9.367753,78.834663,Moderate,1,Speeding
+A0914,2025-01-03,17:58,Clear,Dry,Kilakarai Main Road,9.229364,78.787116,Severe,1,Speeding
+A0915,2024-09-08,11:35,Clear,Dry,Paramakudi Highway,9.545852,78.590028,Minor,4,Signal Violation
+A0916,2024-04-23,12:50,Clear,Dry,Paramakudi Highway,9.547062,78.59035,Minor,2,Distracted Driving
+A0917,2025-09-30,22:51,Foggy,Potholes,Paramakudi Highway,9.54743,78.590431,Fatal,1,Speeding
+A0918,2025-12-12,08:24,Clear,Dry,Kilakarai Main Road,9.230081,78.785542,Minor,2,Overtaking
+A0919,2025-07-02,16:54,Clear,Dry,Industrial Area Road,9.348284,78.825163,Moderate,2,Speeding
+A0920,2025-05-15,20:37,Clear,Dry,Paramakudi Highway,9.54595,78.589688,Minor,3,Distracted Driving
+A0921,2025-10-22,12:56,Rainy,Wet,East Coast Road,9.299807,78.897177,Moderate,3,Speeding
+A0922,2025-04-30,18:31,Clear,Dry,Market Road,9.364977,78.836339,Minor,2,Overtaking
+A0923,2024-08-28,21:28,Clear,Dry,Kilakarai Main Road,9.23124,78.783458,Severe,2,Vehicle Failure
+A0924,2024-05-17,09:05,Rainy,Wet,Madurai Road Junction,9.366899,78.808701,Moderate,1,Distracted Driving
+A0925,2025-03-18,13:29,Clear,Potholes,Madurai Road Junction,9.366454,78.810641,Minor,2,Poor Road Condition
+A0926,2025-01-02,09:04,Foggy,Dry,Kilakarai Main Road,9.230031,78.787663,Minor,2,Weather
+A0927,2024-05-01,21:06,Clear,Dry,Rameswaram Road,9.28621,79.313379,Moderate,2,Speeding
+A0928,2025-11-30,18:49,Rainy,Wet,Rameswaram Road,9.289501,79.310994,Severe,3,Speeding
+A0929,2024-11-02,21:00,Clear,Dry,East Coast Road,9.302089,78.899625,Severe,4,Overtaking
+A0930,2024-06-01,14:32,Rainy,Muddy,Ramanathapuram Junction,9.364333,78.83989,Moderate,2,Distracted Driving
+A0931,2025-04-17,19:46,Clear,Dry,East Coast Road,9.299799,78.901216,Severe,2,Signal Violation
+A0932,2025-07-25,08:28,Clear,Dry,Bus Stand Junction,9.36869,78.831377,Moderate,2,Vehicle Failure
+A0933,2024-12-29,19:53,Clear,Dry,Market Road,9.367757,78.833706,Moderate,2,Weather
+A0934,2024-01-24,10:37,Cloudy,Dry,East Coast Road,9.301549,78.90169,Fatal,5,Speeding
+A0935,2025-09-14,17:38,Cloudy,Dry,Industrial Area Road,9.348364,78.824384,Minor,4,Distracted Driving
+A0936,2024-12-02,08:06,Cloudy,Dry,Bus Stand Junction,9.365841,78.833678,Minor,1,Vehicle Failure
+A0937,2025-12-06,08:52,Cloudy,Dry,East Coast Road,9.299538,78.901169,Moderate,4,Speeding
+A0938,2025-06-20,08:42,Clear,Dry,Kilakarai Main Road,9.232965,78.787094,Severe,1,Distracted Driving
+A0939,2024-05-12,12:07,Clear,Dry,Bus Stand Junction,9.366657,78.833686,Severe,4,Speeding
+A0940,2025-03-18,20:19,Rainy,Dry,Paramakudi Highway,9.543475,78.588791,Minor,2,Weather
+A0941,2024-05-26,09:00,Clear,Potholes,Market Road,9.367247,78.838623,Minor,2,Poor Road Condition
+A0942,2025-04-18,20:29,Cloudy,Wet,Industrial Area Road,9.348148,78.824111,Severe,4,Speeding
+A0943,2024-06-28,12:52,Clear,Dry,Rameswaram Road,9.28796,79.31242,Minor,2,Poor Road Condition
+A0944,2025-02-06,18:06,Cloudy,Dry,Paramakudi Highway,9.544786,78.590636,Severe,1,Vehicle Failure
+A0945,2024-03-09,10:58,Cloudy,Wet,East Coast Road,9.299289,78.899978,Fatal,2,Speeding
+A0946,2024-03-19,06:23,Rainy,Potholes,East Coast Road,9.300819,78.90001,Minor,1,Poor Road Condition
+A0947,2025-10-16,14:04,Cloudy,Wet,Ramanathapuram Junction,9.363245,78.839336,Severe,3,Distracted Driving
+A0948,2024-04-27,03:16,Cloudy,Dry,Bus Stand Junction,9.367367,78.833445,Moderate,2,Poor Road Condition
+A0949,2025-03-24,16:15,Clear,Potholes,Devipattinam Road,9.477612,78.870398,Minor,1,Vehicle Failure
+A0950,2025-07-01,08:07,Cloudy,Dry,Devipattinam Road,9.478841,78.867557,Minor,1,Poor Road Condition
+A0951,2024-02-05,11:13,Foggy,Dry,Market Road,9.366845,78.835699,Moderate,1,Weather
+A0952,2025-11-06,17:45,Foggy,Dry,East Coast Road,9.30176,78.900554,Minor,1,Drunk Driving
+A0953,2024-09-12,19:59,Clear,Dry,Bus Stand Junction,9.367339,78.834672,Fatal,2,Speeding
+A0954,2025-11-16,19:43,Clear,Under Construction,Madurai Road Junction,9.362644,78.80831,Severe,3,Speeding
+A0955,2024-04-20,03:32,Rainy,Wet,Paramakudi Highway,9.544209,78.590214,Moderate,4,Weather
+A0956,2024-04-18,06:13,Clear,Dry,Bus Stand Junction,9.370099,78.837347,Minor,2,Distracted Driving
+A0957,2024-10-12,08:42,Cloudy,Dry,Market Road,9.366757,78.836951,Moderate,2,Speeding
+A0958,2025-12-30,15:06,Clear,Under Construction,Industrial Area Road,9.347298,78.824186,Severe,1,Vehicle Failure
+A0959,2025-12-14,10:40,Clear,Under Construction,Industrial Area Road,9.348818,78.824069,Minor,1,Signal Violation
+A0960,2025-05-08,23:42,Clear,Dry,Madurai Road Junction,9.364748,78.809292,Moderate,2,Vehicle Failure
+A0961,2024-01-14,15:45,Clear,Wet,Kilakarai Main Road,9.228031,78.786122,Moderate,2,Vehicle Failure
+A0962,2024-05-20,17:03,Clear,Dry,Kilakarai Main Road,9.229391,78.785359,Minor,2,Speeding
+A0963,2024-12-02,23:28,Clear,Dry,Industrial Area Road,9.353111,78.823621,Moderate,1,Signal Violation
+A0964,2024-01-25,17:18,Clear,Wet,Bus Stand Junction,9.363705,78.833571,Minor,2,Distracted Driving
+A0965,2024-08-15,19:44,Cloudy,Dry,Kilakarai Main Road,9.232651,78.787938,Minor,2,Distracted Driving
+A0966,2024-02-23,05:12,Cloudy,Dry,Market Road,9.363956,78.836945,Moderate,1,Speeding
+A0967,2025-03-12,08:05,Cloudy,Dry,Kilakarai Main Road,9.230302,78.784841,Minor,2,Weather
+A0968,2025-04-04,10:36,Windy,Dry,Kilakarai Main Road,9.234967,78.782746,Severe,2,Overtaking
+A0969,2025-04-27,12:10,Clear,Dry,Madurai Road Junction,9.365381,78.810702,Moderate,3,Weather
+A0970,2025-03-13,01:24,Rainy,Under Construction,Market Road,9.367429,78.836347,Moderate,1,Poor Road Condition
+A0971,2025-04-09,12:19,Clear,Dry,Rameswaram Road,9.288462,79.311413,Moderate,2,Distracted Driving
+A0972,2024-01-05,07:12,Clear,Dry,Kilakarai Main Road,9.231404,78.784485,Severe,2,Weather
+A0973,2025-01-28,22:23,Clear,Wet,Bus Stand Junction,9.368432,78.833446,Minor,2,Drunk Driving
+A0974,2024-06-15,12:36,Clear,Dry,Devipattinam Road,9.478566,78.867956,Severe,4,Speeding
+A0975,2025-12-06,18:40,Clear,Dry,East Coast Road,9.301689,78.899923,Minor,2,Distracted Driving
+A0976,2025-01-05,02:52,Cloudy,Wet,Market Road,9.36314,78.838093,Moderate,3,Weather
+A0977,2024-09-17,22:09,Clear,Dry,Market Road,9.364441,78.835219,Minor,1,Poor Road Condition
+A0978,2025-01-28,17:58,Clear,Dry,Devipattinam Road,9.477107,78.870062,Minor,2,Vehicle Failure
+A0979,2024-09-15,07:27,Cloudy,Dry,Bus Stand Junction,9.364296,78.838707,Moderate,4,Drunk Driving
+A0980,2024-04-01,19:59,Clear,Dry,Bus Stand Junction,9.369084,78.834335,Minor,3,Signal Violation
+A0981,2025-12-16,21:25,Clear,Under Construction,Kilakarai Main Road,9.230918,78.785428,Minor,1,Vehicle Failure
+A0982,2024-10-22,15:41,Cloudy,Dry,Bus Stand Junction,9.368282,78.834968,Minor,3,Distracted Driving
+A0983,2025-04-06,15:07,Cloudy,Dry,Paramakudi Highway,9.546833,78.590134,Severe,3,Speeding
+A0984,2025-02-22,09:57,Clear,Potholes,Kilakarai Main Road,9.230704,78.784773,Minor,3,Speeding
+A0985,2024-03-06,12:17,Clear,Dry,Devipattinam Road,9.477708,78.869701,Minor,3,Distracted Driving
+A0986,2025-11-12,09:00,Cloudy,Under Construction,Ramanathapuram Junction,9.36479,78.835089,Minor,2,Speeding
+A0987,2024-09-29,15:48,Windy,Dry,Industrial Area Road,9.350984,78.825292,Moderate,2,Drunk Driving
+A0988,2024-09-02,23:52,Windy,Wet,Madurai Road Junction,9.364972,78.809417,Moderate,1,Poor Road Condition
+A0989,2025-04-12,19:00,Foggy,Dry,Madurai Road Junction,9.366686,78.811421,Minor,4,Vehicle Failure
+A0990,2025-12-17,20:17,Rainy,Wet,Devipattinam Road,9.476841,78.868611,Moderate,4,Weather
+A0991,2024-11-25,00:40,Clear,Dry,Kilakarai Main Road,9.229543,78.782931,Moderate,3,Speeding
+A0992,2025-02-13,08:31,Cloudy,Muddy,Market Road,9.36486,78.837494,Fatal,4,Distracted Driving
+A0993,2025-12-17,23:54,Foggy,Wet,Market Road,9.36723,78.83697,Minor,2,Distracted Driving
+A0994,2025-05-31,20:50,Clear,Dry,East Coast Road,9.301088,78.900774,Fatal,3,Speeding
+A0995,2024-04-28,07:28,Clear,Dry,Market Road,9.364838,78.836848,Fatal,1,Speeding
+A0996,2024-01-30,06:45,Clear,Under Construction,Devipattinam Road,9.479201,78.869131,Minor,3,Overtaking
+A0997,2025-11-17,18:57,Clear,Dry,Rameswaram Road,9.289783,79.313062,Minor,3,Drunk Driving
+A0998,2025-08-12,20:59,Rainy,Wet,Madurai Road Junction,9.365527,78.811605,Moderate,3,Poor Road Condition
+A0999,2025-07-29,17:50,Windy,Dry,Bus Stand Junction,9.36746,78.832677,Minor,2,Distracted Driving
+A1000,2025-08-29,06:47,Windy,Wet,Devipattinam Road,9.477755,78.866883,Severe,2,Speeding
+A1001,2024-11-14,16:00,Clear,Dry,Bus Stand Junction,9.366487,78.833783,Minor,5,Signal Violation
+A1002,2024-05-09,19:59,Clear,Wet,Madurai Road Junction,9.363811,78.809538,Moderate,2,Speeding
+A1003,2024-10-30,10:52,Rainy,Wet,Market Road,9.36296,78.83652,Moderate,1,Weather
+A1004,2025-05-29,17:19,Windy,Dry,Ramanathapuram Junction,9.363902,78.838274,Moderate,3,Overtaking
+A1005,2025-01-20,15:45,Clear,Potholes,Kilakarai Main Road,9.231989,78.786406,Moderate,3,Distracted Driving
+A1006,2024-07-02,18:03,Rainy,Wet,Kilakarai Main Road,9.228589,78.783856,Moderate,4,Vehicle Failure
+A1007,2025-03-08,16:21,Cloudy,Under Construction,Ramanathapuram Junction,9.362746,78.83809,Moderate,2,Signal Violation
+A1008,2024-07-18,09:59,Cloudy,Dry,Rameswaram Road,9.289244,79.311709,Severe,2,Speeding
+A1009,2024-11-07,20:45,Clear,Dry,Ramanathapuram Junction,9.363503,78.836494,Moderate,3,Speeding
+A1010,2024-07-19,08:51,Cloudy,Dry,Paramakudi Highway,9.546953,78.588141,Moderate,2,Weather
+A1011,2025-11-26,12:27,Rainy,Dry,Paramakudi Highway,9.54609,78.590416,Minor,1,Overtaking
+A1012,2025-03-20,17:37,Windy,Wet,East Coast Road,9.302041,78.898037,Minor,1,Poor Road Condition
+A1013,2024-06-25,10:38,Cloudy,Dry,Market Road,9.361271,78.836476,Moderate,3,Weather
+A1014,2025-01-26,20:41,Clear,Wet,Market Road,9.368501,78.838058,Minor,1,Distracted Driving
+A1015,2025-06-05,17:58,Clear,Dry,Market Road,9.366114,78.835463,Moderate,2,Overtaking
+A1016,2025-01-28,19:11,Clear,Wet,Devipattinam Road,9.479211,78.86654,Minor,2,Distracted Driving
+A1017,2025-07-04,18:55,Clear,Potholes,Devipattinam Road,9.478715,78.868758,Moderate,2,Speeding
+A1018,2025-08-21,15:33,Clear,Potholes,East Coast Road,9.30159,78.904139,Minor,3,Weather
+A1019,2025-12-12,08:38,Clear,Dry,Devipattinam Road,9.478589,78.867237,Minor,1,Signal Violation
+A1020,2025-07-29,17:05,Clear,Muddy,Kilakarai Main Road,9.230962,78.782346,Moderate,1,Speeding
+A1021,2024-01-01,07:42,Clear,Dry,East Coast Road,9.298958,78.899386,Minor,4,Overtaking
+A1022,2025-05-17,14:36,Cloudy,Dry,East Coast Road,9.299214,78.900229,Moderate,2,Overtaking
+A1023,2024-02-15,18:42,Clear,Dry,Kilakarai Main Road,9.229766,78.786682,Fatal,3,Speeding
+A1024,2025-01-02,16:37,Clear,Wet,Industrial Area Road,9.35,78.824986,Minor,2,Distracted Driving
+A1025,2024-09-17,13:05,Cloudy,Under Construction,Paramakudi Highway,9.545508,78.590233,Severe,2,Speeding
+A1026,2025-10-23,23:44,Clear,Dry,Rameswaram Road,9.289238,79.310699,Moderate,3,Poor Road Condition
+A1027,2025-03-20,19:20,Clear,Under Construction,Bus Stand Junction,9.366513,78.833544,Moderate,2,Distracted Driving
+A1028,2025-10-17,13:21,Clear,Potholes,East Coast Road,9.297981,78.898771,Moderate,1,Signal Violation
+A1029,2024-08-15,00:24,Clear,Dry,Rameswaram Road,9.287286,79.313312,Moderate,1,Overtaking
+A1030,2025-05-16,17:51,Clear,Dry,Rameswaram Road,9.288394,79.31229,Moderate,2,Drunk Driving
+A1031,2024-11-21,21:10,Windy,Dry,Devipattinam Road,9.479276,78.867794,Severe,3,Poor Road Condition
+A1032,2025-02-16,16:56,Clear,Dry,East Coast Road,9.300586,78.899845,Moderate,2,Speeding
+A1033,2024-09-30,07:36,Clear,Wet,Paramakudi Highway,9.546398,78.589126,Minor,3,Overtaking
+A1034,2024-07-06,13:29,Clear,Dry,Industrial Area Road,9.346342,78.824799,Severe,2,Distracted Driving
+A1035,2024-08-22,22:56,Clear,Potholes,East Coast Road,9.302134,78.901389,Moderate,2,Overtaking
+A1036,2024-09-02,17:04,Windy,Dry,Devipattinam Road,9.479448,78.869854,Moderate,3,Speeding
+A1037,2025-03-10,19:00,Cloudy,Under Construction,Market Road,9.365933,78.836496,Severe,2,Speeding
+A1038,2024-01-15,18:25,Cloudy,Potholes,East Coast Road,9.299074,78.899526,Moderate,3,Signal Violation
+A1039,2025-11-08,09:47,Windy,Potholes,Madurai Road Junction,9.365924,78.811806,Moderate,2,Overtaking
+A1040,2025-11-21,14:10,Windy,Muddy,Industrial Area Road,9.349791,78.824325,Minor,1,Overtaking
+A1041,2025-03-08,15:03,Clear,Dry,Paramakudi Highway,9.546001,78.590902,Moderate,2,Overtaking
+A1042,2024-04-30,20:54,Clear,Dry,East Coast Road,9.297834,78.896556,Severe,1,Speeding
+A1043,2025-10-20,08:19,Clear,Potholes,Bus Stand Junction,9.366674,78.832169,Severe,4,Overtaking
+A1044,2025-04-16,11:39,Clear,Dry,Ramanathapuram Junction,9.363138,78.839278,Moderate,4,Speeding
+A1045,2025-05-18,00:27,Clear,Dry,Madurai Road Junction,9.36432,78.812179,Severe,2,Vehicle Failure
+A1046,2024-09-13,07:42,Clear,Dry,Ramanathapuram Junction,9.36439,78.839951,Moderate,2,Speeding
+A1047,2025-11-03,06:28,Rainy,Wet,Rameswaram Road,9.288933,79.310292,Severe,2,Poor Road Condition
+A1048,2024-02-11,06:18,Clear,Dry,Kilakarai Main Road,9.232559,78.784886,Moderate,1,Distracted Driving
+A1049,2024-05-01,22:17,Clear,Dry,Market Road,9.366806,78.834592,Minor,3,Signal Violation
+A1050,2025-02-02,15:59,Clear,Under Construction,Bus Stand Junction,9.365169,78.835227,Minor,1,Vehicle Failure
+A1051,2024-02-23,19:15,Cloudy,Dry,Ramanathapuram Junction,9.364465,78.838147,Minor,3,Overtaking
+A1052,2025-03-15,09:05,Clear,Dry,Rameswaram Road,9.286696,79.313688,Moderate,2,Distracted Driving
+A1053,2025-11-13,23:15,Rainy,Muddy,Rameswaram Road,9.286216,79.314464,Moderate,3,Vehicle Failure
+A1054,2025-08-28,08:54,Cloudy,Dry,Paramakudi Highway,9.544649,78.590958,Moderate,2,Speeding
+A1055,2024-01-19,21:27,Cloudy,Dry,Kilakarai Main Road,9.230507,78.785905,Moderate,2,Speeding
+A1056,2025-05-05,08:27,Clear,Dry,Kilakarai Main Road,9.230184,78.784756,Moderate,1,Speeding
+A1057,2024-11-23,18:15,Foggy,Dry,Madurai Road Junction,9.365061,78.808497,Moderate,3,Speeding
+A1058,2025-09-13,14:58,Clear,Dry,Rameswaram Road,9.289111,79.31123,Minor,2,Overtaking
+A1059,2025-07-19,18:43,Rainy,Wet,Devipattinam Road,9.477657,78.866508,Moderate,3,Vehicle Failure
+A1060,2024-10-09,12:41,Clear,Dry,Industrial Area Road,9.346156,78.824713,Moderate,1,Vehicle Failure
+A1061,2025-11-01,03:58,Rainy,Wet,Devipattinam Road,9.481619,78.869177,Fatal,4,Speeding
+A1062,2024-07-25,18:48,Clear,Dry,Rameswaram Road,9.287971,79.311606,Severe,2,Speeding
+A1063,2025-01-09,23:57,Clear,Wet,East Coast Road,9.300034,78.900821,Moderate,1,Vehicle Failure
+A1064,2025-09-05,19:10,Clear,Under Construction,East Coast Road,9.298229,78.901671,Minor,4,Drunk Driving
+A1065,2025-05-21,18:25,Cloudy,Potholes,Kilakarai Main Road,9.232073,78.786077,Moderate,1,Overtaking
+A1066,2025-02-14,16:24,Cloudy,Dry,Bus Stand Junction,9.368158,78.834029,Moderate,2,Speeding
+A1067,2025-06-09,20:50,Clear,Wet,Ramanathapuram Junction,9.364909,78.840388,Moderate,2,Drunk Driving
+A1068,2024-08-17,16:10,Clear,Dry,Rameswaram Road,9.287469,79.31114,Severe,1,Speeding
+A1069,2024-02-22,09:50,Cloudy,Dry,Paramakudi Highway,9.546153,78.592324,Minor,2,Signal Violation
+A1070,2024-11-28,17:23,Clear,Wet,Madurai Road Junction,9.363141,78.807799,Moderate,3,Drunk Driving
+A1071,2025-10-02,10:03,Rainy,Wet,Industrial Area Road,9.350247,78.825076,Severe,1,Overtaking
+A1072,2025-08-20,17:55,Clear,Wet,East Coast Road,9.30026,78.900366,Severe,3,Distracted Driving
+A1073,2025-03-28,16:52,Clear,Dry,Industrial Area Road,9.349665,78.827235,Severe,3,Drunk Driving
+A1074,2025-03-20,14:46,Clear,Potholes,Paramakudi Highway,9.543599,78.588757,Moderate,2,Speeding
+A1075,2024-07-03,08:31,Cloudy,Dry,Paramakudi Highway,9.545845,78.587535,Moderate,1,Speeding
+A1076,2024-03-14,08:09,Clear,Dry,Industrial Area Road,9.349736,78.827492,Moderate,2,Poor Road Condition
+A1077,2024-01-13,18:51,Cloudy,Dry,Paramakudi Highway,9.546031,78.590346,Severe,3,Speeding
+A1078,2024-03-26,07:49,Clear,Under Construction,Ramanathapuram Junction,9.36201,78.838575,Minor,3,Poor Road Condition
+A1079,2024-12-12,16:52,Rainy,Dry,Devipattinam Road,9.477437,78.867523,Moderate,4,Signal Violation
+A1080,2024-09-06,11:09,Clear,Wet,Rameswaram Road,9.289922,79.312837,Moderate,1,Poor Road Condition
+A1081,2025-06-07,16:06,Foggy,Dry,Devipattinam Road,9.476333,78.86837,Moderate,2,Speeding
+A1082,2024-10-20,07:41,Clear,Potholes,Bus Stand Junction,9.368247,78.83571,Severe,4,Poor Road Condition
+A1083,2024-08-17,15:07,Clear,Under Construction,Devipattinam Road,9.480371,78.866477,Minor,2,Poor Road Condition
+A1084,2024-06-03,21:38,Clear,Dry,Devipattinam Road,9.476784,78.866114,Moderate,3,Drunk Driving
+A1085,2024-12-22,17:18,Foggy,Dry,Rameswaram Road,9.287649,79.3127,Minor,2,Weather
+A1086,2024-06-01,19:55,Rainy,Dry,Devipattinam Road,9.479481,78.867886,Severe,3,Weather
+A1087,2024-10-12,06:27,Clear,Dry,Devipattinam Road,9.47752,78.868228,Moderate,3,Speeding
+A1088,2025-02-27,13:44,Cloudy,Wet,Market Road,9.364547,78.839334,Fatal,4,Speeding
+A1089,2025-07-05,13:31,Clear,Dry,Bus Stand Junction,9.365089,78.834277,Moderate,2,Signal Violation
+A1090,2025-12-11,16:49,Rainy,Dry,Bus Stand Junction,9.370535,78.83401,Severe,2,Poor Road Condition
+A1091,2024-04-22,16:08,Clear,Dry,Madurai Road Junction,9.364715,78.809464,Moderate,4,Signal Violation
+A1092,2025-07-18,14:53,Windy,Potholes,Rameswaram Road,9.287729,79.314059,Minor,3,Distracted Driving
+A1093,2025-12-21,06:44,Clear,Wet,Paramakudi Highway,9.542682,78.5923,Minor,2,Weather
+A1094,2025-05-03,18:04,Rainy,Dry,Devipattinam Road,9.475864,78.8676,Minor,1,Poor Road Condition
+A1095,2024-06-02,20:26,Rainy,Dry,Industrial Area Road,9.349356,78.825883,Moderate,4,Weather
+A1096,2025-12-12,14:41,Clear,Dry,Madurai Road Junction,9.362603,78.810693,Severe,3,Speeding
+A1097,2025-02-09,15:00,Rainy,Potholes,Paramakudi Highway,9.549036,78.587955,Severe,3,Poor Road Condition
+A1098,2025-03-09,10:14,Windy,Dry,East Coast Road,9.300285,78.899007,Fatal,2,Speeding
+A1099,2024-08-12,13:03,Clear,Potholes,Kilakarai Main Road,9.231639,78.785029,Minor,2,Overtaking
+A1100,2025-10-19,15:41,Clear,Dry,Market Road,9.364838,78.836932,Moderate,2,Speeding
+A1101,2025-01-06,06:04,Cloudy,Potholes,Rameswaram Road,9.290707,79.311714,Moderate,2,Speeding
+A1102,2024-11-12,08:00,Clear,Dry,Devipattinam Road,9.47908,78.86606,Minor,2,Overtaking
+A1103,2025-05-10,16:36,Clear,Dry,Industrial Area Road,9.348565,78.825709,Minor,1,Overtaking
+A1104,2024-07-18,22:32,Clear,Dry,Rameswaram Road,9.290226,79.312533,Moderate,1,Distracted Driving
+A1105,2025-05-30,13:47,Clear,Potholes,Madurai Road Junction,9.36453,78.809999,Minor,2,Distracted Driving
+A1106,2024-10-24,20:02,Clear,Wet,Industrial Area Road,9.348124,78.825907,Fatal,2,Speeding
+A1107,2025-11-28,20:51,Cloudy,Muddy,Kilakarai Main Road,9.232323,78.784322,Severe,5,Speeding
+A1108,2024-12-15,17:59,Clear,Dry,Industrial Area Road,9.349295,78.825399,Fatal,2,Speeding
+A1109,2025-11-30,21:49,Clear,Dry,Ramanathapuram Junction,9.363245,78.839401,Minor,1,Poor Road Condition
+A1110,2024-05-26,06:00,Rainy,Potholes,Market Road,9.36895,78.835829,Moderate,4,Vehicle Failure
+A1111,2024-10-29,10:59,Clear,Dry,Market Road,9.365262,78.835229,Minor,1,Distracted Driving
+A1112,2024-09-19,09:30,Rainy,Under Construction,Market Road,9.366916,78.835928,Moderate,5,Overtaking
+A1113,2025-02-22,20:25,Rainy,Dry,Madurai Road Junction,9.364026,78.811982,Severe,3,Poor Road Condition
+A1114,2025-06-02,05:26,Clear,Potholes,Madurai Road Junction,9.367129,78.809099,Fatal,1,Overtaking
+A1115,2025-12-17,18:15,Rainy,Potholes,Ramanathapuram Junction,9.3611,78.841011,Moderate,1,Drunk Driving
+A1116,2025-04-18,08:55,Cloudy,Dry,Devipattinam Road,9.476973,78.869186,Moderate,2,Distracted Driving
+A1117,2024-04-20,05:46,Foggy,Under Construction,Devipattinam Road,9.475045,78.869339,Minor,2,Signal Violation
+A1118,2025-05-12,11:38,Clear,Wet,Madurai Road Junction,9.363183,78.811096,Moderate,2,Speeding
+A1119,2024-11-23,07:13,Cloudy,Under Construction,Market Road,9.365821,78.834769,Moderate,1,Signal Violation
+A1120,2024-02-25,23:13,Clear,Dry,Bus Stand Junction,9.366889,78.835029,Minor,2,Signal Violation
+A1121,2024-10-07,05:04,Clear,Dry,Paramakudi Highway,9.546159,78.590877,Moderate,4,Weather
+A1122,2024-04-04,08:03,Foggy,Dry,Rameswaram Road,9.290965,79.309654,Minor,2,Overtaking
+A1123,2025-12-06,15:34,Rainy,Wet,Bus Stand Junction,9.369926,78.834157,Moderate,2,Overtaking
+A1124,2024-07-22,19:38,Clear,Wet,East Coast Road,9.298652,78.898005,Fatal,2,Poor Road Condition
+A1125,2025-04-14,01:57,Windy,Dry,Madurai Road Junction,9.364716,78.811382,Severe,3,Drunk Driving
+A1126,2025-04-06,15:00,Windy,Potholes,Rameswaram Road,9.287809,79.314267,Moderate,3,Poor Road Condition
+A1127,2025-03-06,08:12,Cloudy,Muddy,Ramanathapuram Junction,9.361723,78.839482,Minor,2,Poor Road Condition
+A1128,2024-01-15,22:36,Clear,Dry,Kilakarai Main Road,9.229121,78.785545,Moderate,2,Distracted Driving
+A1129,2025-04-11,18:41,Clear,Dry,Devipattinam Road,9.47933,78.867369,Severe,2,Signal Violation
+A1130,2025-04-14,06:11,Clear,Dry,Madurai Road Junction,9.361094,78.810298,Moderate,2,Drunk Driving
+A1131,2025-09-27,17:44,Windy,Potholes,Bus Stand Junction,9.368155,78.834606,Severe,1,Speeding
+A1132,2025-02-25,17:39,Clear,Wet,Devipattinam Road,9.479854,78.866393,Moderate,2,Poor Road Condition
+A1133,2025-11-14,16:02,Clear,Dry,East Coast Road,9.30102,78.901789,Moderate,2,Speeding
+A1134,2024-12-25,20:07,Windy,Potholes,Kilakarai Main Road,9.228332,78.785479,Moderate,3,Poor Road Condition
+A1135,2024-08-17,00:23,Clear,Dry,Bus Stand Junction,9.366744,78.833878,Severe,2,Poor Road Condition
+A1136,2025-02-28,18:00,Clear,Dry,Bus Stand Junction,9.368022,78.833269,Moderate,3,Signal Violation
+A1137,2025-08-08,10:10,Windy,Dry,Industrial Area Road,9.348986,78.825051,Moderate,2,Overtaking
+A1138,2025-03-15,19:36,Clear,Wet,Ramanathapuram Junction,9.362269,78.837871,Severe,1,Overtaking
+A1139,2024-04-11,07:14,Cloudy,Dry,East Coast Road,9.301019,78.898277,Moderate,2,Speeding
+A1140,2024-11-26,20:10,Clear,Dry,Rameswaram Road,9.288999,79.312694,Moderate,2,Distracted Driving
+A1141,2024-03-21,17:34,Cloudy,Dry,Ramanathapuram Junction,9.361311,78.838484,Moderate,5,Weather
+A1142,2024-08-15,08:41,Clear,Dry,Madurai Road Junction,9.366791,78.808528,Severe,3,Speeding
+A1143,2024-03-25,17:17,Windy,Wet,Rameswaram Road,9.287303,79.312693,Minor,2,Weather
+A1144,2024-04-19,21:07,Clear,Dry,Market Road,9.366975,78.835823,Severe,1,Speeding
+A1145,2024-01-23,12:31,Clear,Dry,Kilakarai Main Road,9.230104,78.787134,Minor,2,Poor Road Condition
+A1146,2024-06-13,17:28,Clear,Dry,Madurai Road Junction,9.367608,78.811468,Severe,2,Speeding
+A1147,2024-12-21,06:21,Clear,Wet,Ramanathapuram Junction,9.364028,78.838288,Severe,1,Drunk Driving
+A1148,2025-07-02,08:01,Clear,Dry,Devipattinam Road,9.476754,78.868784,Minor,4,Speeding
+A1149,2024-08-13,02:08,Clear,Wet,Kilakarai Main Road,9.231628,78.787102,Moderate,2,Speeding
+A1150,2025-10-29,11:35,Clear,Wet,Devipattinam Road,9.478976,78.865745,Minor,2,Distracted Driving
+A1151,2025-12-04,09:12,Rainy,Under Construction,Kilakarai Main Road,9.232578,78.783503,Moderate,3,Speeding
+A1152,2025-05-14,19:46,Clear,Dry,Paramakudi Highway,9.545424,78.590375,Moderate,2,Drunk Driving
+A1153,2024-07-23,17:27,Cloudy,Dry,Devipattinam Road,9.480994,78.872665,Minor,1,Poor Road Condition
+A1154,2025-08-23,22:16,Clear,Wet,Ramanathapuram Junction,9.36481,78.839225,Moderate,4,Vehicle Failure
+A1155,2024-11-26,02:11,Clear,Dry,Bus Stand Junction,9.368302,78.835331,Moderate,2,Speeding
+A1156,2024-01-10,19:07,Clear,Dry,Paramakudi Highway,9.545519,78.592693,Moderate,2,Distracted Driving
+A1157,2024-10-17,16:24,Cloudy,Dry,Kilakarai Main Road,9.231345,78.785747,Severe,2,Speeding
+A1158,2025-03-07,16:41,Cloudy,Dry,Devipattinam Road,9.478999,78.868632,Minor,2,Signal Violation
+A1159,2025-03-07,15:17,Clear,Dry,Market Road,9.367058,78.835274,Minor,2,Poor Road Condition
+A1160,2025-08-12,09:41,Windy,Potholes,Ramanathapuram Junction,9.363063,78.83785,Moderate,3,Drunk Driving
+A1161,2024-12-11,21:02,Cloudy,Dry,East Coast Road,9.300659,78.901168,Severe,3,Speeding
+A1162,2025-02-13,10:22,Clear,Muddy,Rameswaram Road,9.288687,79.314512,Minor,1,Distracted Driving
+A1163,2024-05-04,15:41,Rainy,Dry,Market Road,9.365792,78.837203,Minor,3,Distracted Driving
+A1164,2025-03-22,20:46,Clear,Dry,Madurai Road Junction,9.363362,78.809419,Moderate,3,Weather
+A1165,2025-12-05,23:59,Rainy,Potholes,East Coast Road,9.301043,78.901274,Moderate,4,Speeding
+A1166,2025-01-23,18:50,Clear,Dry,Madurai Road Junction,9.364559,78.809893,Minor,2,Speeding
+A1167,2025-02-27,19:56,Cloudy,Wet,Paramakudi Highway,9.543723,78.589464,Moderate,2,Drunk Driving
+A1168,2025-05-09,23:20,Clear,Dry,Market Road,9.367136,78.837063,Moderate,1,Speeding
+A1169,2024-07-29,17:47,Cloudy,Dry,Kilakarai Main Road,9.231751,78.785075,Moderate,2,Distracted Driving
+A1170,2025-05-14,19:12,Clear,Dry,Market Road,9.365811,78.83521,Severe,2,Drunk Driving
+A1171,2024-06-06,18:41,Rainy,Dry,Rameswaram Road,9.289048,79.312631,Moderate,2,Overtaking
+A1172,2025-02-13,15:49,Clear,Dry,Industrial Area Road,9.350738,78.824211,Severe,2,Speeding
+A1173,2024-04-19,07:56,Cloudy,Dry,Devipattinam Road,9.47477,78.869646,Minor,2,Vehicle Failure
+A1174,2024-05-01,14:16,Windy,Dry,East Coast Road,9.299282,78.898706,Moderate,1,Poor Road Condition
+A1175,2024-10-06,11:28,Clear,Dry,East Coast Road,9.30104,78.899412,Minor,4,Distracted Driving
+A1176,2024-10-09,13:38,Clear,Dry,Kilakarai Main Road,9.23259,78.785926,Moderate,3,Distracted Driving
+A1177,2024-02-06,08:03,Cloudy,Dry,Devipattinam Road,9.479025,78.865951,Severe,2,Drunk Driving
+A1178,2024-08-13,12:06,Cloudy,Potholes,Bus Stand Junction,9.369318,78.834392,Severe,2,Drunk Driving
+A1179,2025-09-02,17:45,Clear,Dry,Madurai Road Junction,9.364446,78.810215,Severe,4,Speeding
+A1180,2024-09-01,20:44,Clear,Wet,Rameswaram Road,9.285336,79.312613,Moderate,2,Speeding
+A1181,2024-12-08,18:27,Clear,Under Construction,Ramanathapuram Junction,9.362356,78.837471,Moderate,1,Overtaking
+A1182,2025-08-20,17:30,Clear,Potholes,Ramanathapuram Junction,9.361616,78.841169,Minor,1,Poor Road Condition
+A1183,2025-05-30,20:33,Clear,Dry,Rameswaram Road,9.287056,79.314301,Severe,2,Speeding
+A1184,2025-07-12,15:22,Clear,Dry,Market Road,9.364996,78.833639,Minor,1,Distracted Driving
+A1185,2025-11-10,21:49,Rainy,Wet,Madurai Road Junction,9.363325,78.811854,Fatal,3,Speeding
+A1186,2024-08-13,07:26,Cloudy,Dry,Ramanathapuram Junction,9.363666,78.838678,Moderate,2,Distracted Driving
+A1187,2024-04-01,11:47,Clear,Under Construction,Bus Stand Junction,9.36774,78.834753,Severe,5,Poor Road Condition
+A1188,2025-06-23,21:28,Clear,Potholes,East Coast Road,9.301676,78.902173,Moderate,2,Poor Road Condition
+A1189,2025-08-16,10:02,Clear,Dry,Rameswaram Road,9.28746,79.310011,Moderate,2,Poor Road Condition
+A1190,2025-05-25,10:00,Windy,Dry,Madurai Road Junction,9.36438,78.81039,Minor,2,Weather
+A1191,2025-05-13,18:19,Clear,Muddy,East Coast Road,9.298554,78.898564,Moderate,1,Speeding
+A1192,2024-11-09,06:31,Clear,Dry,Industrial Area Road,9.350516,78.824927,Minor,1,Signal Violation
+A1193,2025-11-12,19:32,Windy,Dry,Rameswaram Road,9.288049,79.310862,Minor,3,Overtaking
+A1194,2024-03-23,13:58,Clear,Dry,Kilakarai Main Road,9.230654,78.783614,Moderate,2,Overtaking
+A1195,2024-04-10,13:57,Foggy,Under Construction,Bus Stand Junction,9.368835,78.835553,Minor,1,Poor Road Condition
+A1196,2025-11-30,19:08,Rainy,Wet,Madurai Road Junction,9.362231,78.808606,Moderate,2,Speeding
+A1197,2025-03-23,16:24,Clear,Dry,Market Road,9.363555,78.835225,Moderate,2,Weather
+A1198,2025-04-22,14:27,Clear,Dry,Madurai Road Junction,9.364875,78.807826,Fatal,2,Speeding
+A1199,2025-09-21,06:08,Foggy,Muddy,Bus Stand Junction,9.366117,78.832494,Moderate,2,Weather
+A1200,2025-02-06,20:03,Clear,Wet,Industrial Area Road,9.350311,78.825104,Moderate,3,Distracted Driving
