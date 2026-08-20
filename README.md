@@ -1,4 +1,4 @@
-# my-first-task-at-skill-craft-technology-for-data-visualization
+SCT_DS_1
 📊 Project Overview
 
 This project presents a detailed data visualization and demographic analysis of India's population by age group for 2022. Instead of using only three broad age categories, the project uses 21 five-year age bands, providing a more detailed view of India's population structure. The analysis includes population distribution by age, broad age-group comparison, male–female distribution, population percentages, and an overall age-profile visualization.
